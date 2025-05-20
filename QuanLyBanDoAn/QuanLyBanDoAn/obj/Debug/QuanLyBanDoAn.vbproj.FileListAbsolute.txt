@@ -34,3 +34,6 @@ E:\Tue\224\thlttq\QuanLyBanDoAn\QuanLyBanDoAn\QuanLyBanDoAn\obj\Debug\QuanLyBanD
 E:\Tue\224\thlttq\QuanLyBanDoAn\QuanLyBanDoAn\QuanLyBanDoAn\obj\Debug\QuanLyBanDoAn.pdb
 E:\Tue\224\thlttq\QuanLyBanDoAn\QuanLyBanDoAn\QuanLyBanDoAn\obj\Debug\QuanLyBanDoAn.AddBan.resources
 E:\Tue\224\thlttq\QuanLyBanDoAn\QuanLyBanDoAn\QuanLyBanDoAn\obj\Debug\QuanLyBanDoAn.FormBan.resources
+C:\Users\dinhk\Downloads\QuanLyBanDoAn\QuanLyBanDoAn\QuanLyBanDoAn\obj\Debug\QuanLyBanDoAn.AddBan.resources
+C:\Users\dinhk\Downloads\QuanLyBanDoAn\QuanLyBanDoAn\QuanLyBanDoAn\obj\Debug\QuanLyBanDoAn.FormBan.resources
+C:\Users\dinhk\Downloads\QuanLyBanDoAn\QuanLyBanDoAn\QuanLyBanDoAn\obj\Debug\QuanLyBanDoAn.FormBanItem.resources
