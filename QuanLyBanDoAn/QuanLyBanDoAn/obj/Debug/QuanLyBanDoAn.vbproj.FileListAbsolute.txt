@@ -13,3 +13,5 @@ C:\Users\dinhk\Downloads\QuanLyBanDoAn\QuanLyBanDoAn\QuanLyBanDoAn\obj\Debug\Qua
 C:\Users\dinhk\Downloads\QuanLyBanDoAn\QuanLyBanDoAn\QuanLyBanDoAn\obj\Debug\QuanLyBanDoAn.FormHome.resources
 C:\Users\dinhk\Downloads\QuanLyBanDoAn\QuanLyBanDoAn\QuanLyBanDoAn\obj\Debug\QuanLyBanDoAn.FormDanhMuc.resources
 C:\Users\dinhk\Downloads\QuanLyBanDoAn\QuanLyBanDoAn\QuanLyBanDoAn\obj\Debug\QuanLyBanDoAn.AddDanhMuc.resources
+C:\Users\dinhk\Downloads\QuanLyBanDoAn\QuanLyBanDoAn\QuanLyBanDoAn\obj\Debug\QuanLyBanDoAn.FormMon.resources
+C:\Users\dinhk\Downloads\QuanLyBanDoAn\QuanLyBanDoAn\QuanLyBanDoAn\obj\Debug\QuanLyBanDoAn.AddMon.resources
