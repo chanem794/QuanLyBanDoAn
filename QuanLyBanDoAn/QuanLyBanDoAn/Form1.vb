@@ -82,4 +82,11 @@ Public Class Form1
     Private Sub Panel1_Paint(sender As Object, e As PaintEventArgs) Handles Panel1.Paint
 
     End Sub
+
+    Private Sub btnBan_Click(sender As Object, e As EventArgs) Handles btnBan.Click
+        pnlOnButtonPosition.Height = btnBan.Height
+        pnlOnButtonPosition.Top = btnBan.Top
+        AddControls(New FormBan())
+        Label2.Text = "Bàn"
+    End Sub
 End Class
