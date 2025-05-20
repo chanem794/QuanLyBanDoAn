@@ -37,19 +37,19 @@ Partial Class FormDanhMuc
         'btnThem
         '
         Me.btnThem.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.btnThem.Location = New System.Drawing.Point(608, 55)
+        Me.btnThem.Location = New System.Drawing.Point(608, 63)
         Me.btnThem.Name = "btnThem"
-        Me.btnThem.Size = New System.Drawing.Size(60, 38)
+        Me.btnThem.Size = New System.Drawing.Size(64, 30)
         Me.btnThem.TabIndex = 0
         Me.btnThem.Text = "+"
         Me.btnThem.UseVisualStyleBackColor = True
         '
         'TextBox1
         '
-        Me.TextBox1.Font = New System.Drawing.Font("Microsoft Sans Serif", 16.2!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.TextBox1.Location = New System.Drawing.Point(113, 55)
+        Me.TextBox1.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.TextBox1.Location = New System.Drawing.Point(113, 63)
         Me.TextBox1.Name = "TextBox1"
-        Me.TextBox1.Size = New System.Drawing.Size(489, 38)
+        Me.TextBox1.Size = New System.Drawing.Size(489, 30)
         Me.TextBox1.TabIndex = 2
         '
         'DataGridViewImageColumn1

@@ -1,13 +1,21 @@
 ﻿Imports System.Data.SqlClient
 Public Class FormDanhMuc
 
-    Private Sub LoadDanhMuc()
+    Private Sub LoadDanhMuc(Optional keyword As String = "")
         Try
             Using conn As New SqlConnection(connStr)
-                Dim adapter As New SqlDataAdapter("SELECT * FROM DANHMUC", conn)
-                Dim dt As New DataTable()
-                adapter.Fill(dt)
-                DataGridView1.DataSource = dt
+                Dim sql As String = "SELECT * FROM DANHMUC"
+                If Not String.IsNullOrEmpty(keyword) Then
+                    sql &= " WHERE TenDanhMuc LIKE @tuKhoa OR CAST(Madanhmuc_ID AS nvarchar) LIKE @tuKhoa"
+                End If
+                Using adapter As New SqlDataAdapter(sql, conn)
+                    If Not String.IsNullOrEmpty(keyword) Then
+                        adapter.SelectCommand.Parameters.AddWithValue("@tuKhoa", "%" & keyword & "%")
+                    End If
+                    Dim dt As New DataTable()
+                    adapter.Fill(dt)
+                    DataGridView1.DataSource = dt
+                End Using
             End Using
         Catch ex As Exception
             MessageBox.Show("Lỗi nạp dữ liệu: " & ex.Message)
@@ -53,5 +61,9 @@ Public Class FormDanhMuc
                 End Try
             End If
         End If
+    End Sub
+
+    Private Sub TextBox1_TextChanged(sender As Object, e As EventArgs) Handles TextBox1.TextChanged
+        LoadDanhMuc(TextBox1.Text.Trim())
     End Sub
 End Class
