@@ -23,13 +23,11 @@ Partial Class FormDatMon
     <System.Diagnostics.DebuggerStepThrough()>
     Private Sub InitializeComponent()
         Me.pnDanhMuc = New System.Windows.Forms.Panel()
-        Me.pnlOnButtonPosition = New System.Windows.Forms.Panel()
         Me.flpMenu = New System.Windows.Forms.FlowLayoutPanel()
+        Me.pnlOnButtonPosition = New System.Windows.Forms.Panel()
         Me.pnCart = New System.Windows.Forms.Panel()
         Me.lblTongTien = New System.Windows.Forms.Label()
         Me.btnThanhToan = New System.Windows.Forms.Button()
-        Me.Label1 = New System.Windows.Forms.Label()
-        Me.TextBox1 = New System.Windows.Forms.TextBox()
         Me.pnDanhMuc.SuspendLayout()
         Me.SuspendLayout()
         '
@@ -44,6 +42,14 @@ Partial Class FormDatMon
         Me.pnDanhMuc.Size = New System.Drawing.Size(186, 610)
         Me.pnDanhMuc.TabIndex = 2
         '
+        'flpMenu
+        '
+        Me.flpMenu.AutoScroll = True
+        Me.flpMenu.Location = New System.Drawing.Point(193, 0)
+        Me.flpMenu.Name = "flpMenu"
+        Me.flpMenu.Size = New System.Drawing.Size(568, 610)
+        Me.flpMenu.TabIndex = 5
+        '
         'pnlOnButtonPosition
         '
         Me.pnlOnButtonPosition.BackColor = System.Drawing.Color.FromArgb(CType(CType(244, Byte), Integer), CType(CType(138, Byte), Integer), CType(CType(7, Byte), Integer))
@@ -52,14 +58,6 @@ Partial Class FormDatMon
         Me.pnlOnButtonPosition.Name = "pnlOnButtonPosition"
         Me.pnlOnButtonPosition.Size = New System.Drawing.Size(13, 46)
         Me.pnlOnButtonPosition.TabIndex = 1
-        '
-        'flpMenu
-        '
-        Me.flpMenu.AutoScroll = True
-        Me.flpMenu.Location = New System.Drawing.Point(193, 34)
-        Me.flpMenu.Name = "flpMenu"
-        Me.flpMenu.Size = New System.Drawing.Size(568, 576)
-        Me.flpMenu.TabIndex = 5
         '
         'pnCart
         '
@@ -91,32 +89,11 @@ Partial Class FormDatMon
         Me.btnThanhToan.Text = "Thanh Toán"
         Me.btnThanhToan.UseVisualStyleBackColor = False
         '
-        'Label1
-        '
-        Me.Label1.AutoSize = True
-        Me.Label1.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label1.Location = New System.Drawing.Point(187, 6)
-        Me.Label1.Name = "Label1"
-        Me.Label1.Size = New System.Drawing.Size(95, 25)
-        Me.Label1.TabIndex = 9
-        Me.Label1.Text = "Tìm Kiếm"
-        Me.Label1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
-        '
-        'TextBox1
-        '
-        Me.TextBox1.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.TextBox1.Location = New System.Drawing.Point(293, 3)
-        Me.TextBox1.Name = "TextBox1"
-        Me.TextBox1.Size = New System.Drawing.Size(468, 30)
-        Me.TextBox1.TabIndex = 8
-        '
         'FormDatMon
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(8.0!, 16.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(1272, 610)
-        Me.Controls.Add(Me.Label1)
-        Me.Controls.Add(Me.TextBox1)
         Me.Controls.Add(Me.lblTongTien)
         Me.Controls.Add(Me.btnThanhToan)
         Me.Controls.Add(Me.flpMenu)
@@ -136,6 +113,4 @@ Partial Class FormDatMon
     Friend WithEvents pnCart As Panel
     Friend WithEvents lblTongTien As Label
     Friend WithEvents btnThanhToan As Button
-    Friend WithEvents Label1 As Label
-    Friend WithEvents TextBox1 As TextBox
 End Class
