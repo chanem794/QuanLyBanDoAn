@@ -1,4 +1,5 @@
 ﻿Imports System.Data.SqlClient
+Imports System.IO
 Public Class Form1
     Private connStr As String = "Data Source=localhost.;Initial Catalog=QuanLyBanDoAn;Integrated Security=True"
     ' Method to add Controls in Main Form
@@ -9,9 +10,33 @@ Public Class Form1
         CenterPanel.Controls.Add(f)
         f.Show()
     End Sub
+    Sub CapNhatAnhMonDemo()
+        ' Bảng ánh xạ mã món sang resource ảnh
+        Dim monAnh As New Dictionary(Of Integer, Image) From {
+        {1, My.Resources.mon1},
+        {2, My.Resources.mon2},
+        {3, My.Resources.mon3}
+    }
 
+        Using conn As New SqlConnection(connStr)
+            conn.Open()
+            For Each kvp In monAnh
+                Dim id As Integer = kvp.Key
+                Dim img As Image = kvp.Value
+                ' Chuyển ảnh thành byte
+                Dim ms As New MemoryStream()
+                img.Save(ms, Imaging.ImageFormat.Png)
+                Dim bytes() As Byte = ms.ToArray()
+                ' Update ảnh vào món
+                Dim cmd As New SqlCommand("UPDATE MENU SET HinhAnhMon=@img WHERE MaMon_ID=@id", conn)
+                cmd.Parameters.AddWithValue("@id", id)
+                cmd.Parameters.AddWithValue("@img", bytes)
+                cmd.ExecuteNonQuery()
+            Next
+        End Using
+    End Sub
     Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
-
+        CapNhatAnhMonDemo()
     End Sub
 
     Private Sub btnHome_Click(sender As Object, e As EventArgs) Handles btnHome.Click
@@ -40,4 +65,14 @@ Public Class Form1
 
     End Sub
 
+    Private Sub btnMon_Click(sender As Object, e As EventArgs) Handles btnMon.Click
+        pnlOnButtonPosition.Height = btnMon.Height
+        pnlOnButtonPosition.Top = btnMon.Top
+        AddControls(New FormMon())
+        Label2.Text = "Món"
+    End Sub
+
+    Private Sub Panel1_Paint(sender As Object, e As PaintEventArgs) Handles Panel1.Paint
+
+    End Sub
 End Class

@@ -24,6 +24,7 @@ Partial Class Form1
     Private Sub InitializeComponent()
         Me.pnlLeftSide = New System.Windows.Forms.Panel()
         Me.Panel4 = New System.Windows.Forms.Panel()
+        Me.Panel5 = New System.Windows.Forms.Panel()
         Me.Panel6 = New System.Windows.Forms.Panel()
         Me.Label3 = New System.Windows.Forms.Label()
         Me.MonthCalendar2 = New System.Windows.Forms.MonthCalendar()
@@ -39,13 +40,12 @@ Partial Class Form1
         Me.Panel1 = New System.Windows.Forms.Panel()
         Me.Label2 = New System.Windows.Forms.Label()
         Me.pnlHome = New System.Windows.Forms.Panel()
+        Me.CenterPanel = New System.Windows.Forms.Panel()
         Me.Panel3 = New System.Windows.Forms.Panel()
         Me.Panel2 = New System.Windows.Forms.Panel()
         Me.Label1 = New System.Windows.Forms.Label()
         Me.MonthCalendar1 = New System.Windows.Forms.MonthCalendar()
         Me.Button1 = New System.Windows.Forms.Button()
-        Me.Panel5 = New System.Windows.Forms.Panel()
-        Me.CenterPanel = New System.Windows.Forms.Panel()
         Me.pnlLeftSide.SuspendLayout()
         Me.Panel4.SuspendLayout()
         Me.Panel6.SuspendLayout()
@@ -83,6 +83,13 @@ Partial Class Form1
         Me.Panel4.Name = "Panel4"
         Me.Panel4.Size = New System.Drawing.Size(892, 523)
         Me.Panel4.TabIndex = 18
+        '
+        'Panel5
+        '
+        Me.Panel5.Location = New System.Drawing.Point(84, 84)
+        Me.Panel5.Name = "Panel5"
+        Me.Panel5.Size = New System.Drawing.Size(200, 100)
+        Me.Panel5.TabIndex = 17
         '
         'Panel6
         '
@@ -241,6 +248,9 @@ Partial Class Form1
         '
         'Label2
         '
+        Me.Label2.Anchor = CType((((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Bottom) _
+            Or System.Windows.Forms.AnchorStyles.Left) _
+            Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.Label2.AutoSize = True
         Me.Label2.FlatStyle = System.Windows.Forms.FlatStyle.Flat
         Me.Label2.Font = New System.Drawing.Font("Microsoft Sans Serif", 16.2!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
@@ -248,20 +258,31 @@ Partial Class Form1
         Me.Label2.Location = New System.Drawing.Point(255, 4)
         Me.Label2.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label2.Name = "Label2"
-        Me.Label2.Size = New System.Drawing.Size(0, 32)
+        Me.Label2.Size = New System.Drawing.Size(69, 32)
         Me.Label2.TabIndex = 13
+        Me.Label2.Text = "Title"
+        Me.Label2.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
         '
         'pnlHome
         '
         Me.pnlHome.Controls.Add(Me.CenterPanel)
-        Me.pnlHome.Controls.Add(Me.Panel3)
         Me.pnlHome.Controls.Add(Me.Panel2)
         Me.pnlHome.Controls.Add(Me.Button1)
+        Me.pnlHome.Controls.Add(Me.Panel3)
         Me.pnlHome.Location = New System.Drawing.Point(267, 43)
         Me.pnlHome.Margin = New System.Windows.Forms.Padding(4)
         Me.pnlHome.Name = "pnlHome"
         Me.pnlHome.Size = New System.Drawing.Size(892, 523)
         Me.pnlHome.TabIndex = 7
+        '
+        'CenterPanel
+        '
+        Me.CenterPanel.BackColor = System.Drawing.Color.White
+        Me.CenterPanel.Location = New System.Drawing.Point(0, 1)
+        Me.CenterPanel.Margin = New System.Windows.Forms.Padding(4)
+        Me.CenterPanel.Name = "CenterPanel"
+        Me.CenterPanel.Size = New System.Drawing.Size(892, 523)
+        Me.CenterPanel.TabIndex = 18
         '
         'Panel3
         '
@@ -310,22 +331,6 @@ Partial Class Form1
         Me.Button1.Text = "   Danh sách hóa đơn"
         Me.Button1.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText
         Me.Button1.UseVisualStyleBackColor = True
-        '
-        'Panel5
-        '
-        Me.Panel5.Location = New System.Drawing.Point(84, 84)
-        Me.Panel5.Name = "Panel5"
-        Me.Panel5.Size = New System.Drawing.Size(200, 100)
-        Me.Panel5.TabIndex = 17
-        '
-        'CenterPanel
-        '
-        Me.CenterPanel.BackColor = System.Drawing.Color.White
-        Me.CenterPanel.Location = New System.Drawing.Point(0, 1)
-        Me.CenterPanel.Margin = New System.Windows.Forms.Padding(4)
-        Me.CenterPanel.Name = "CenterPanel"
-        Me.CenterPanel.Size = New System.Drawing.Size(892, 523)
-        Me.CenterPanel.TabIndex = 18
         '
         'Form1
         '

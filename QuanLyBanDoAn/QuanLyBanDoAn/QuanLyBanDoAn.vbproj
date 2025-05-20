@@ -80,6 +80,12 @@
     <Compile Include="AddDanhMuc.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="AddMon.Designer.vb">
+      <DependentUpon>AddMon.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AddMon.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="Form1.vb">
       <SubType>Form</SubType>
     </Compile>
@@ -97,6 +103,12 @@
       <DependentUpon>FormHome.vb</DependentUpon>
     </Compile>
     <Compile Include="FormHome.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMon.Designer.vb">
+      <DependentUpon>FormMon.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormMon.vb">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Module1.vb" />
@@ -120,6 +132,9 @@
     <EmbeddedResource Include="AddDanhMuc.resx">
       <DependentUpon>AddDanhMuc.vb</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="AddMon.resx">
+      <DependentUpon>AddMon.vb</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.vb</DependentUpon>
     </EmbeddedResource>
@@ -128,6 +143,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="FormHome.resx">
       <DependentUpon>FormHome.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormMon.resx">
+      <DependentUpon>FormMon.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="My Project\Resources.resx">
       <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
@@ -156,6 +174,18 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\icons8-delete-30.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-image-100.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mon3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mon1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mon2.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
 </Project>
