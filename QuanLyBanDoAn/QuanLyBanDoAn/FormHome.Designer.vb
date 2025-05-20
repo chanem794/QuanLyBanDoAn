@@ -28,7 +28,7 @@ Partial Class FormHome
         'Label1
         '
         Me.Label1.AutoSize = True
-        Me.Label1.Location = New System.Drawing.Point(318, 177)
+        Me.Label1.Location = New System.Drawing.Point(366, 150)
         Me.Label1.Name = "Label1"
         Me.Label1.Size = New System.Drawing.Size(48, 16)
         Me.Label1.TabIndex = 0
@@ -40,8 +40,10 @@ Partial Class FormHome
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(800, 450)
         Me.Controls.Add(Me.Label1)
+        Me.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None
         Me.Name = "FormHome"
         Me.Text = "FormHome"
+        Me.TopMost = True
         Me.ResumeLayout(False)
         Me.PerformLayout()
 
