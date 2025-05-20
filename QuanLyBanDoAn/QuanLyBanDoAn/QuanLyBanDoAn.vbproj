@@ -129,6 +129,24 @@
     <Compile Include="FormMon.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="FormThongKe.Designer.vb">
+      <DependentUpon>FormThongKe.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormThongKe.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormTKSL.Designer.vb">
+      <DependentUpon>FormTKSL.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormTKSL.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormTKTM.Designer.vb">
+      <DependentUpon>FormTKTM.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormTKTM.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="Module1.vb" />
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
@@ -173,6 +191,15 @@
     </EmbeddedResource>
     <EmbeddedResource Include="FormMon.resx">
       <DependentUpon>FormMon.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormThongKe.resx">
+      <DependentUpon>FormThongKe.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormTKSL.resx">
+      <DependentUpon>FormTKSL.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormTKTM.resx">
+      <DependentUpon>FormTKTM.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="My Project\Resources.resx">
       <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
