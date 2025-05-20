@@ -23,7 +23,12 @@ Partial Class Form1
     <System.Diagnostics.DebuggerStepThrough()>
     Private Sub InitializeComponent()
         Me.pnlLeftSide = New System.Windows.Forms.Panel()
-        Me.btn = New System.Windows.Forms.Button()
+        Me.Panel4 = New System.Windows.Forms.Panel()
+        Me.Panel6 = New System.Windows.Forms.Panel()
+        Me.Label3 = New System.Windows.Forms.Label()
+        Me.MonthCalendar2 = New System.Windows.Forms.MonthCalendar()
+        Me.Button2 = New System.Windows.Forms.Button()
+        Me.btnDanhMuc = New System.Windows.Forms.Button()
         Me.pnlOnButtonPosition = New System.Windows.Forms.Panel()
         Me.pnlTopSide = New System.Windows.Forms.Panel()
         Me.Label19 = New System.Windows.Forms.Label()
@@ -39,7 +44,11 @@ Partial Class Form1
         Me.Label1 = New System.Windows.Forms.Label()
         Me.MonthCalendar1 = New System.Windows.Forms.MonthCalendar()
         Me.Button1 = New System.Windows.Forms.Button()
+        Me.Panel5 = New System.Windows.Forms.Panel()
+        Me.CenterPanel = New System.Windows.Forms.Panel()
         Me.pnlLeftSide.SuspendLayout()
+        Me.Panel4.SuspendLayout()
+        Me.Panel6.SuspendLayout()
         Me.pnlOnButtonPosition.SuspendLayout()
         Me.Panel1.SuspendLayout()
         Me.pnlHome.SuspendLayout()
@@ -49,7 +58,8 @@ Partial Class Form1
         'pnlLeftSide
         '
         Me.pnlLeftSide.BackColor = System.Drawing.Color.FromArgb(CType(CType(175, Byte), Integer), CType(CType(17, Byte), Integer), CType(CType(23, Byte), Integer))
-        Me.pnlLeftSide.Controls.Add(Me.btn)
+        Me.pnlLeftSide.Controls.Add(Me.Panel4)
+        Me.pnlLeftSide.Controls.Add(Me.btnDanhMuc)
         Me.pnlLeftSide.Controls.Add(Me.pnlOnButtonPosition)
         Me.pnlLeftSide.Controls.Add(Me.Label19)
         Me.pnlLeftSide.Controls.Add(Me.Label16)
@@ -63,20 +73,72 @@ Partial Class Form1
         Me.pnlLeftSide.Size = New System.Drawing.Size(267, 566)
         Me.pnlLeftSide.TabIndex = 1
         '
-        'btn
+        'Panel4
         '
-        Me.btn.FlatAppearance.BorderSize = 0
-        Me.btn.FlatStyle = System.Windows.Forms.FlatStyle.Flat
-        Me.btn.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.btn.ForeColor = System.Drawing.SystemColors.Control
-        Me.btn.Location = New System.Drawing.Point(0, 260)
-        Me.btn.Margin = New System.Windows.Forms.Padding(4)
-        Me.btn.Name = "btn"
-        Me.btn.Size = New System.Drawing.Size(267, 46)
-        Me.btn.TabIndex = 12
-        Me.btn.Text = "   Danh Mục"
-        Me.btn.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText
-        Me.btn.UseVisualStyleBackColor = True
+        Me.Panel4.Controls.Add(Me.Panel5)
+        Me.Panel4.Controls.Add(Me.Panel6)
+        Me.Panel4.Controls.Add(Me.Button2)
+        Me.Panel4.Location = New System.Drawing.Point(267, 43)
+        Me.Panel4.Margin = New System.Windows.Forms.Padding(4)
+        Me.Panel4.Name = "Panel4"
+        Me.Panel4.Size = New System.Drawing.Size(892, 523)
+        Me.Panel4.TabIndex = 18
+        '
+        'Panel6
+        '
+        Me.Panel6.Controls.Add(Me.Label3)
+        Me.Panel6.Controls.Add(Me.MonthCalendar2)
+        Me.Panel6.Location = New System.Drawing.Point(599, 55)
+        Me.Panel6.Name = "Panel6"
+        Me.Panel6.Size = New System.Drawing.Size(281, 274)
+        Me.Panel6.TabIndex = 16
+        '
+        'Label3
+        '
+        Me.Label3.AutoSize = True
+        Me.Label3.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label3.Location = New System.Drawing.Point(4, 19)
+        Me.Label3.Name = "Label3"
+        Me.Label3.Size = New System.Drawing.Size(92, 25)
+        Me.Label3.TabIndex = 15
+        Me.Label3.Text = "Calendar"
+        Me.Label3.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
+        '
+        'MonthCalendar2
+        '
+        Me.MonthCalendar2.Location = New System.Drawing.Point(9, 54)
+        Me.MonthCalendar2.Name = "MonthCalendar2"
+        Me.MonthCalendar2.TabIndex = 14
+        '
+        'Button2
+        '
+        Me.Button2.FlatAppearance.BorderSize = 0
+        Me.Button2.FlatStyle = System.Windows.Forms.FlatStyle.Flat
+        Me.Button2.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Button2.ForeColor = System.Drawing.SystemColors.ControlText
+        Me.Button2.Location = New System.Drawing.Point(261, 217)
+        Me.Button2.Margin = New System.Windows.Forms.Padding(4)
+        Me.Button2.Name = "Button2"
+        Me.Button2.Size = New System.Drawing.Size(267, 46)
+        Me.Button2.TabIndex = 13
+        Me.Button2.Text = "   Danh sách hóa đơn"
+        Me.Button2.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText
+        Me.Button2.UseVisualStyleBackColor = True
+        '
+        'btnDanhMuc
+        '
+        Me.btnDanhMuc.FlatAppearance.BorderSize = 0
+        Me.btnDanhMuc.FlatStyle = System.Windows.Forms.FlatStyle.Flat
+        Me.btnDanhMuc.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.btnDanhMuc.ForeColor = System.Drawing.SystemColors.Control
+        Me.btnDanhMuc.Location = New System.Drawing.Point(13, 260)
+        Me.btnDanhMuc.Margin = New System.Windows.Forms.Padding(4)
+        Me.btnDanhMuc.Name = "btnDanhMuc"
+        Me.btnDanhMuc.Size = New System.Drawing.Size(254, 46)
+        Me.btnDanhMuc.TabIndex = 12
+        Me.btnDanhMuc.Text = "   Danh Mục"
+        Me.btnDanhMuc.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText
+        Me.btnDanhMuc.UseVisualStyleBackColor = True
         '
         'pnlOnButtonPosition
         '
@@ -91,7 +153,6 @@ Partial Class Form1
         'pnlTopSide
         '
         Me.pnlTopSide.BackColor = System.Drawing.Color.FromArgb(CType(CType(244, Byte), Integer), CType(CType(138, Byte), Integer), CType(CType(7, Byte), Integer))
-        Me.pnlTopSide.Dock = System.Windows.Forms.DockStyle.Top
         Me.pnlTopSide.Location = New System.Drawing.Point(0, 0)
         Me.pnlTopSide.Margin = New System.Windows.Forms.Padding(4)
         Me.pnlTopSide.Name = "pnlTopSide"
@@ -128,10 +189,10 @@ Partial Class Form1
         Me.btnMon.FlatStyle = System.Windows.Forms.FlatStyle.Flat
         Me.btnMon.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.btnMon.ForeColor = System.Drawing.SystemColors.Control
-        Me.btnMon.Location = New System.Drawing.Point(0, 154)
+        Me.btnMon.Location = New System.Drawing.Point(13, 154)
         Me.btnMon.Margin = New System.Windows.Forms.Padding(4)
         Me.btnMon.Name = "btnMon"
-        Me.btnMon.Size = New System.Drawing.Size(267, 46)
+        Me.btnMon.Size = New System.Drawing.Size(254, 46)
         Me.btnMon.TabIndex = 4
         Me.btnMon.Text = "   Món"
         Me.btnMon.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText
@@ -143,10 +204,10 @@ Partial Class Form1
         Me.btnBan.FlatStyle = System.Windows.Forms.FlatStyle.Flat
         Me.btnBan.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.btnBan.ForeColor = System.Drawing.SystemColors.Control
-        Me.btnBan.Location = New System.Drawing.Point(0, 209)
+        Me.btnBan.Location = New System.Drawing.Point(13, 209)
         Me.btnBan.Margin = New System.Windows.Forms.Padding(4)
         Me.btnBan.Name = "btnBan"
-        Me.btnBan.Size = New System.Drawing.Size(267, 46)
+        Me.btnBan.Size = New System.Drawing.Size(254, 46)
         Me.btnBan.TabIndex = 2
         Me.btnBan.Text = "   Bàn"
         Me.btnBan.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText
@@ -187,12 +248,12 @@ Partial Class Form1
         Me.Label2.Location = New System.Drawing.Point(255, 4)
         Me.Label2.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label2.Name = "Label2"
-        Me.Label2.Size = New System.Drawing.Size(390, 32)
+        Me.Label2.Size = New System.Drawing.Size(0, 32)
         Me.Label2.TabIndex = 13
-        Me.Label2.Text = "Món ăn bán ra theo từng ngày"
         '
         'pnlHome
         '
+        Me.pnlHome.Controls.Add(Me.CenterPanel)
         Me.pnlHome.Controls.Add(Me.Panel3)
         Me.pnlHome.Controls.Add(Me.Panel2)
         Me.pnlHome.Controls.Add(Me.Button1)
@@ -213,7 +274,7 @@ Partial Class Form1
         '
         Me.Panel2.Controls.Add(Me.Label1)
         Me.Panel2.Controls.Add(Me.MonthCalendar1)
-        Me.Panel2.Location = New System.Drawing.Point(599, 55)
+        Me.Panel2.Location = New System.Drawing.Point(545, 42)
         Me.Panel2.Name = "Panel2"
         Me.Panel2.Size = New System.Drawing.Size(281, 274)
         Me.Panel2.TabIndex = 16
@@ -241,7 +302,7 @@ Partial Class Form1
         Me.Button1.FlatStyle = System.Windows.Forms.FlatStyle.Flat
         Me.Button1.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Button1.ForeColor = System.Drawing.SystemColors.ControlText
-        Me.Button1.Location = New System.Drawing.Point(261, 217)
+        Me.Button1.Location = New System.Drawing.Point(261, 166)
         Me.Button1.Margin = New System.Windows.Forms.Padding(4)
         Me.Button1.Name = "Button1"
         Me.Button1.Size = New System.Drawing.Size(267, 46)
@@ -250,18 +311,37 @@ Partial Class Form1
         Me.Button1.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText
         Me.Button1.UseVisualStyleBackColor = True
         '
+        'Panel5
+        '
+        Me.Panel5.Location = New System.Drawing.Point(84, 84)
+        Me.Panel5.Name = "Panel5"
+        Me.Panel5.Size = New System.Drawing.Size(200, 100)
+        Me.Panel5.TabIndex = 17
+        '
+        'CenterPanel
+        '
+        Me.CenterPanel.BackColor = System.Drawing.Color.White
+        Me.CenterPanel.Location = New System.Drawing.Point(0, 1)
+        Me.CenterPanel.Margin = New System.Windows.Forms.Padding(4)
+        Me.CenterPanel.Name = "CenterPanel"
+        Me.CenterPanel.Size = New System.Drawing.Size(892, 523)
+        Me.CenterPanel.TabIndex = 18
+        '
         'Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(8.0!, 16.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(1159, 566)
-        Me.Controls.Add(Me.pnlHome)
         Me.Controls.Add(Me.Panel1)
         Me.Controls.Add(Me.pnlLeftSide)
+        Me.Controls.Add(Me.pnlHome)
         Me.Name = "Form1"
         Me.Text = "Form1"
         Me.pnlLeftSide.ResumeLayout(False)
         Me.pnlLeftSide.PerformLayout()
+        Me.Panel4.ResumeLayout(False)
+        Me.Panel6.ResumeLayout(False)
+        Me.Panel6.PerformLayout()
         Me.pnlOnButtonPosition.ResumeLayout(False)
         Me.Panel1.ResumeLayout(False)
         Me.Panel1.PerformLayout()
@@ -282,11 +362,18 @@ Partial Class Form1
     Friend WithEvents pnlTopSide As Panel
     Friend WithEvents Panel1 As Panel
     Friend WithEvents pnlHome As Panel
-    Friend WithEvents btn As Button
-    Friend WithEvents Button1 As Button
-    Friend WithEvents MonthCalendar1 As MonthCalendar
+    Friend WithEvents btnDanhMuc As Button
+    Friend WithEvents Label2 As Label
+    Friend WithEvents Panel4 As Panel
+    Friend WithEvents Panel6 As Panel
+    Friend WithEvents Label3 As Label
+    Friend WithEvents MonthCalendar2 As MonthCalendar
+    Friend WithEvents Button2 As Button
     Friend WithEvents Panel3 As Panel
     Friend WithEvents Panel2 As Panel
-    Friend WithEvents Label2 As Label
     Friend WithEvents Label1 As Label
+    Friend WithEvents MonthCalendar1 As MonthCalendar
+    Friend WithEvents Button1 As Button
+    Friend WithEvents Panel5 As Panel
+    Friend WithEvents CenterPanel As Panel
 End Class
