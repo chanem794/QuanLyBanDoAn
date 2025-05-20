@@ -3,87 +3,87 @@
   "WorkspaceRootPath": "C:\\Users\\dinhk\\Downloads\\QuanLyBanDoAn\\QuanLyBanDoAn\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AF4D7B92-89E2-4323-A071-2CA4992B5220}|QuanLyBanDoAn\\QuanLyBanDoAn.vbproj|c:\\users\\dinhk\\downloads\\quanlybandoan\\quanlybandoan\\quanlybandoan\\formdatmon.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{AF4D7B92-89E2-4323-A071-2CA4992B5220}|QuanLyBanDoAn\\QuanLyBanDoAn.vbproj|solutionrelative:quanlybandoan\\formdatmon.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AF4D7B92-89E2-4323-A071-2CA4992B5220}|QuanLyBanDoAn\\QuanLyBanDoAn.vbproj|C:\\Users\\dinhk\\Downloads\\QuanLyBanDoAn\\QuanLyBanDoAn\\quanlybandoan\\formdatmon.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
-      "RelativeMoniker": "D:0:0:{AF4D7B92-89E2-4323-A071-2CA4992B5220}|QuanLyBanDoAn\\QuanLyBanDoAn.vbproj|solutionrelative:quanlybandoan\\formdatmon.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AF4D7B92-89E2-4323-A071-2CA4992B5220}|QuanLyBanDoAn\\QuanLyBanDoAn.vbproj|c:\\users\\dinhk\\downloads\\quanlybandoan\\quanlybandoan\\quanlybandoan\\formmon.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
-      "RelativeMoniker": "D:0:0:{AF4D7B92-89E2-4323-A071-2CA4992B5220}|QuanLyBanDoAn\\QuanLyBanDoAn.vbproj|solutionrelative:quanlybandoan\\formmon.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AF4D7B92-89E2-4323-A071-2CA4992B5220}|QuanLyBanDoAn\\QuanLyBanDoAn.vbproj|C:\\Users\\dinhk\\Downloads\\QuanLyBanDoAn\\QuanLyBanDoAn\\quanlybandoan\\addmon.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
-      "RelativeMoniker": "D:0:0:{AF4D7B92-89E2-4323-A071-2CA4992B5220}|QuanLyBanDoAn\\QuanLyBanDoAn.vbproj|solutionrelative:quanlybandoan\\addmon.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AF4D7B92-89E2-4323-A071-2CA4992B5220}|QuanLyBanDoAn\\QuanLyBanDoAn.vbproj|C:\\Users\\dinhk\\Downloads\\QuanLyBanDoAn\\QuanLyBanDoAn\\quanlybandoan\\formmon.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{AF4D7B92-89E2-4323-A071-2CA4992B5220}|QuanLyBanDoAn\\QuanLyBanDoAn.vbproj|solutionrelative:quanlybandoan\\formmon.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AF4D7B92-89E2-4323-A071-2CA4992B5220}|QuanLyBanDoAn\\QuanLyBanDoAn.vbproj|C:\\Users\\dinhk\\Downloads\\QuanLyBanDoAn\\QuanLyBanDoAn\\quanlybandoan\\formbanitem.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{AF4D7B92-89E2-4323-A071-2CA4992B5220}|QuanLyBanDoAn\\QuanLyBanDoAn.vbproj|solutionrelative:quanlybandoan\\formbanitem.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AF4D7B92-89E2-4323-A071-2CA4992B5220}|QuanLyBanDoAn\\QuanLyBanDoAn.vbproj|C:\\Users\\dinhk\\Downloads\\QuanLyBanDoAn\\QuanLyBanDoAn\\quanlybandoan\\formbanitem.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
-      "RelativeMoniker": "D:0:0:{AF4D7B92-89E2-4323-A071-2CA4992B5220}|QuanLyBanDoAn\\QuanLyBanDoAn.vbproj|solutionrelative:quanlybandoan\\formbanitem.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AF4D7B92-89E2-4323-A071-2CA4992B5220}|QuanLyBanDoAn\\QuanLyBanDoAn.vbproj|C:\\Users\\dinhk\\Downloads\\QuanLyBanDoAn\\QuanLyBanDoAn\\quanlybandoan\\formhome.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
-      "RelativeMoniker": "D:0:0:{AF4D7B92-89E2-4323-A071-2CA4992B5220}|QuanLyBanDoAn\\QuanLyBanDoAn.vbproj|solutionrelative:quanlybandoan\\formhome.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AF4D7B92-89E2-4323-A071-2CA4992B5220}|QuanLyBanDoAn\\QuanLyBanDoAn.vbproj|C:\\Users\\dinhk\\Downloads\\QuanLyBanDoAn\\QuanLyBanDoAn\\quanlybandoan\\formxacnhan.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
-      "RelativeMoniker": "D:0:0:{AF4D7B92-89E2-4323-A071-2CA4992B5220}|QuanLyBanDoAn\\QuanLyBanDoAn.vbproj|solutionrelative:quanlybandoan\\formxacnhan.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AF4D7B92-89E2-4323-A071-2CA4992B5220}|QuanLyBanDoAn\\QuanLyBanDoAn.vbproj|C:\\Users\\dinhk\\Downloads\\QuanLyBanDoAn\\QuanLyBanDoAn\\quanlybandoan\\formdanhmuc.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
-      "RelativeMoniker": "D:0:0:{AF4D7B92-89E2-4323-A071-2CA4992B5220}|QuanLyBanDoAn\\QuanLyBanDoAn.vbproj|solutionrelative:quanlybandoan\\formdanhmuc.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AF4D7B92-89E2-4323-A071-2CA4992B5220}|QuanLyBanDoAn\\QuanLyBanDoAn.vbproj|C:\\Users\\dinhk\\Downloads\\QuanLyBanDoAn\\QuanLyBanDoAn\\quanlybandoan\\formban.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
-      "RelativeMoniker": "D:0:0:{AF4D7B92-89E2-4323-A071-2CA4992B5220}|QuanLyBanDoAn\\QuanLyBanDoAn.vbproj|solutionrelative:quanlybandoan\\formban.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AF4D7B92-89E2-4323-A071-2CA4992B5220}|QuanLyBanDoAn\\QuanLyBanDoAn.vbproj|C:\\Users\\dinhk\\Downloads\\QuanLyBanDoAn\\QuanLyBanDoAn\\quanlybandoan\\formhome.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{AF4D7B92-89E2-4323-A071-2CA4992B5220}|QuanLyBanDoAn\\QuanLyBanDoAn.vbproj|solutionrelative:quanlybandoan\\formhome.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AF4D7B92-89E2-4323-A071-2CA4992B5220}|QuanLyBanDoAn\\QuanLyBanDoAn.vbproj|C:\\Users\\dinhk\\Downloads\\QuanLyBanDoAn\\QuanLyBanDoAn\\quanlybandoan\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
-      "RelativeMoniker": "D:0:0:{AF4D7B92-89E2-4323-A071-2CA4992B5220}|QuanLyBanDoAn\\QuanLyBanDoAn.vbproj|solutionrelative:quanlybandoan\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AF4D7B92-89E2-4323-A071-2CA4992B5220}|QuanLyBanDoAn\\QuanLyBanDoAn.vbproj|C:\\Users\\dinhk\\Downloads\\QuanLyBanDoAn\\QuanLyBanDoAn\\quanlybandoan\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{AF4D7B92-89E2-4323-A071-2CA4992B5220}|QuanLyBanDoAn\\QuanLyBanDoAn.vbproj|solutionrelative:quanlybandoan\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AF4D7B92-89E2-4323-A071-2CA4992B5220}|QuanLyBanDoAn\\QuanLyBanDoAn.vbproj|C:\\Users\\dinhk\\Downloads\\QuanLyBanDoAn\\QuanLyBanDoAn\\quanlybandoan\\formdanhmuc.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{AF4D7B92-89E2-4323-A071-2CA4992B5220}|QuanLyBanDoAn\\QuanLyBanDoAn.vbproj|solutionrelative:quanlybandoan\\formdanhmuc.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AF4D7B92-89E2-4323-A071-2CA4992B5220}|QuanLyBanDoAn\\QuanLyBanDoAn.vbproj|C:\\Users\\dinhk\\Downloads\\QuanLyBanDoAn\\QuanLyBanDoAn\\quanlybandoan\\addban.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
-      "RelativeMoniker": "D:0:0:{AF4D7B92-89E2-4323-A071-2CA4992B5220}|QuanLyBanDoAn\\QuanLyBanDoAn.vbproj|solutionrelative:quanlybandoan\\addban.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AF4D7B92-89E2-4323-A071-2CA4992B5220}|QuanLyBanDoAn\\QuanLyBanDoAn.vbproj|C:\\Users\\dinhk\\Downloads\\QuanLyBanDoAn\\QuanLyBanDoAn\\quanlybandoan\\module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{AF4D7B92-89E2-4323-A071-2CA4992B5220}|QuanLyBanDoAn\\QuanLyBanDoAn.vbproj|solutionrelative:quanlybandoan\\module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AF4D7B92-89E2-4323-A071-2CA4992B5220}|QuanLyBanDoAn\\QuanLyBanDoAn.vbproj|C:\\Users\\dinhk\\Downloads\\QuanLyBanDoAn\\QuanLyBanDoAn\\quanlybandoan\\adddanhmuc.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{AF4D7B92-89E2-4323-A071-2CA4992B5220}|QuanLyBanDoAn\\QuanLyBanDoAn.vbproj|solutionrelative:quanlybandoan\\adddanhmuc.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dinhk\\Downloads\\QuanLyBanDoAn\\QuanLyBanDoAn\\QuanLyBanDoAn\\FormDatMon.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:QuanLyBanDoAn\\FormDatMon.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|QuanLyBanDoAn||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AF4D7B92-89E2-4323-A071-2CA4992B5220}|QuanLyBanDoAn\\QuanLyBanDoAn.vbproj|C:\\Users\\dinhk\\Downloads\\QuanLyBanDoAn\\QuanLyBanDoAn\\quanlybandoan\\addmon.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{AF4D7B92-89E2-4323-A071-2CA4992B5220}|QuanLyBanDoAn\\QuanLyBanDoAn.vbproj|solutionrelative:quanlybandoan\\addmon.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dinhk\\Downloads\\QuanLyBanDoAn\\QuanLyBanDoAn\\QuanLyBanDoAn\\Form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:QuanLyBanDoAn\\Form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AF4D7B92-89E2-4323-A071-2CA4992B5220}|QuanLyBanDoAn\\QuanLyBanDoAn.vbproj|C:\\Users\\dinhk\\Downloads\\QuanLyBanDoAn\\QuanLyBanDoAn\\quanlybandoan\\adddanhmuc.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
-      "RelativeMoniker": "D:0:0:{AF4D7B92-89E2-4323-A071-2CA4992B5220}|QuanLyBanDoAn\\QuanLyBanDoAn.vbproj|solutionrelative:quanlybandoan\\adddanhmuc.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dinhk\\Downloads\\QuanLyBanDoAn\\QuanLyBanDoAn\\QuanLyBanDoAn\\FormDanhMuc.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:QuanLyBanDoAn\\FormDanhMuc.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dinhk\\Downloads\\QuanLyBanDoAn\\QuanLyBanDoAn\\QuanLyBanDoAn\\AddDanhMuc.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:QuanLyBanDoAn\\AddDanhMuc.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dinhk\\Downloads\\QuanLyBanDoAn\\QuanLyBanDoAn\\QuanLyBanDoAn\\FormMon.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:QuanLyBanDoAn\\FormMon.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dinhk\\Downloads\\QuanLyBanDoAn\\QuanLyBanDoAn\\QuanLyBanDoAn\\AddMon.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:QuanLyBanDoAn\\AddMon.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dinhk\\Downloads\\QuanLyBanDoAn\\QuanLyBanDoAn\\QuanLyBanDoAn\\FormDatMon.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:QuanLyBanDoAn\\FormDatMon.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dinhk\\Downloads\\QuanLyBanDoAn\\QuanLyBanDoAn\\QuanLyBanDoAn\\FormMon.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:QuanLyBanDoAn\\FormMon.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dinhk\\Downloads\\QuanLyBanDoAn\\QuanLyBanDoAn\\QuanLyBanDoAn\\FormBanItem.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:QuanLyBanDoAn\\FormBanItem.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dinhk\\Downloads\\QuanLyBanDoAn\\QuanLyBanDoAn\\QuanLyBanDoAn\\FormBanItem.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:QuanLyBanDoAn\\FormBanItem.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dinhk\\Downloads\\QuanLyBanDoAn\\QuanLyBanDoAn\\QuanLyBanDoAn\\FormHome.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:QuanLyBanDoAn\\FormHome.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dinhk\\Downloads\\QuanLyBanDoAn\\QuanLyBanDoAn\\QuanLyBanDoAn\\FormXacNhan.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:QuanLyBanDoAn\\FormXacNhan.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dinhk\\Downloads\\QuanLyBanDoAn\\QuanLyBanDoAn\\QuanLyBanDoAn\\FormDanhMuc.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:QuanLyBanDoAn\\FormDanhMuc.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dinhk\\Downloads\\QuanLyBanDoAn\\QuanLyBanDoAn\\QuanLyBanDoAn\\FormBan.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:QuanLyBanDoAn\\FormBan.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dinhk\\Downloads\\QuanLyBanDoAn\\QuanLyBanDoAn\\QuanLyBanDoAn\\FormHome.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:QuanLyBanDoAn\\FormHome.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dinhk\\Downloads\\QuanLyBanDoAn\\QuanLyBanDoAn\\QuanLyBanDoAn\\Form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:QuanLyBanDoAn\\Form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dinhk\\Downloads\\QuanLyBanDoAn\\QuanLyBanDoAn\\QuanLyBanDoAn\\AddBan.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:QuanLyBanDoAn\\AddBan.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dinhk\\Downloads\\QuanLyBanDoAn\\QuanLyBanDoAn\\QuanLyBanDoAn\\Module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:QuanLyBanDoAn\\Module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dinhk\\Downloads\\QuanLyBanDoAn\\QuanLyBanDoAn\\QuanLyBanDoAn\\AddMon.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:QuanLyBanDoAn\\AddMon.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dinhk\\Downloads\\QuanLyBanDoAn\\QuanLyBanDoAn\\QuanLyBanDoAn\\AddDanhMuc.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:QuanLyBanDoAn\\AddDanhMuc.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -96,8 +96,12 @@
           "SelectedChildIndex": 6,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 2,
               "Title": "Form1.vb",
               "DocumentMoniker": "C:\\Users\\dinhk\\Downloads\\QuanLyBanDoAn\\QuanLyBanDoAn\\QuanLyBanDoAn\\Form1.vb",
               "RelativeDocumentMoniker": "QuanLyBanDoAn\\Form1.vb",
@@ -105,12 +109,11 @@
               "RelativeToolTip": "QuanLyBanDoAn\\Form1.vb",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2025-05-14T09:16:07.717Z",
-              "IsPinned": true
+              "WhenOpened": "2025-05-20T19:02:18.805Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 3,
               "Title": "FormDanhMuc.vb",
               "DocumentMoniker": "C:\\Users\\dinhk\\Downloads\\QuanLyBanDoAn\\QuanLyBanDoAn\\QuanLyBanDoAn\\FormDanhMuc.vb",
               "RelativeDocumentMoniker": "QuanLyBanDoAn\\FormDanhMuc.vb",
@@ -118,12 +121,11 @@
               "RelativeToolTip": "QuanLyBanDoAn\\FormDanhMuc.vb",
               "ViewState": "AgIAACIAAAAAAAAAAAAkwBkAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2025-05-20T04:51:50.232Z",
-              "IsPinned": true
+              "WhenOpened": "2025-05-20T19:02:18.913Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 4,
               "Title": "AddDanhMuc.vb",
               "DocumentMoniker": "C:\\Users\\dinhk\\Downloads\\QuanLyBanDoAn\\QuanLyBanDoAn\\QuanLyBanDoAn\\AddDanhMuc.vb",
               "RelativeDocumentMoniker": "QuanLyBanDoAn\\AddDanhMuc.vb",
@@ -131,12 +133,11 @@
               "RelativeToolTip": "QuanLyBanDoAn\\AddDanhMuc.vb",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2025-05-20T05:45:04.978Z",
-              "IsPinned": true
+              "WhenOpened": "2025-05-20T19:02:18.916Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "FormMon.vb",
               "DocumentMoniker": "C:\\Users\\dinhk\\Downloads\\QuanLyBanDoAn\\QuanLyBanDoAn\\QuanLyBanDoAn\\FormMon.vb",
               "RelativeDocumentMoniker": "QuanLyBanDoAn\\FormMon.vb",
@@ -144,26 +145,18 @@
               "RelativeToolTip": "QuanLyBanDoAn\\FormMon.vb",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2025-05-20T06:25:32.943Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-20T19:02:18.917Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AddMon.vb [Design]",
+              "DocumentIndex": 6,
+              "Title": "AddMon.vb",
               "DocumentMoniker": "C:\\Users\\dinhk\\Downloads\\QuanLyBanDoAn\\QuanLyBanDoAn\\QuanLyBanDoAn\\AddMon.vb",
               "RelativeDocumentMoniker": "QuanLyBanDoAn\\AddMon.vb",
-              "ToolTip": "C:\\Users\\dinhk\\Downloads\\QuanLyBanDoAn\\QuanLyBanDoAn\\QuanLyBanDoAn\\AddMon.vb [Design]",
-              "RelativeToolTip": "QuanLyBanDoAn\\AddMon.vb [Design]",
+              "ToolTip": "C:\\Users\\dinhk\\Downloads\\QuanLyBanDoAn\\QuanLyBanDoAn\\QuanLyBanDoAn\\AddMon.vb",
+              "RelativeToolTip": "QuanLyBanDoAn\\AddMon.vb",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2025-05-20T06:27:21.583Z",
-              "IsPinned": true,
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+              "WhenOpened": "2025-05-20T19:02:18.92Z"
             },
             {
               "$type": "Document",
@@ -173,38 +166,36 @@
               "RelativeDocumentMoniker": "QuanLyBanDoAn\\FormDatMon.vb",
               "ToolTip": "C:\\Users\\dinhk\\Downloads\\QuanLyBanDoAn\\QuanLyBanDoAn\\QuanLyBanDoAn\\FormDatMon.vb",
               "RelativeToolTip": "QuanLyBanDoAn\\FormDatMon.vb",
-              "ViewState": "AgIAAJ4BAAAAAAAAAAAmwMoBAAALAAAAAAAAAA==",
+              "ViewState": "AgIAAJABAAAAAAAAAAAqwMoBAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2025-05-20T18:50:24.057Z",
+              "WhenOpened": "2025-05-20T19:02:18.923Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "FormDatMon.vb [Design]",
+              "DocumentIndex": 7,
+              "Title": "FormDatMon.vb",
               "DocumentMoniker": "C:\\Users\\dinhk\\Downloads\\QuanLyBanDoAn\\QuanLyBanDoAn\\QuanLyBanDoAn\\FormDatMon.vb",
               "RelativeDocumentMoniker": "QuanLyBanDoAn\\FormDatMon.vb",
-              "ToolTip": "C:\\Users\\dinhk\\Downloads\\QuanLyBanDoAn\\QuanLyBanDoAn\\QuanLyBanDoAn\\FormDatMon.vb [Design]",
-              "RelativeToolTip": "QuanLyBanDoAn\\FormDatMon.vb [Design]",
+              "ToolTip": "C:\\Users\\dinhk\\Downloads\\QuanLyBanDoAn\\QuanLyBanDoAn\\QuanLyBanDoAn\\FormDatMon.vb",
+              "RelativeToolTip": "QuanLyBanDoAn\\FormDatMon.vb",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2025-05-20T15:00:30.274Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-05-20T19:02:18.924Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "FormMon.vb [Design]",
+              "DocumentIndex": 8,
+              "Title": "FormMon.vb",
               "DocumentMoniker": "C:\\Users\\dinhk\\Downloads\\QuanLyBanDoAn\\QuanLyBanDoAn\\QuanLyBanDoAn\\FormMon.vb",
               "RelativeDocumentMoniker": "QuanLyBanDoAn\\FormMon.vb",
-              "ToolTip": "C:\\Users\\dinhk\\Downloads\\QuanLyBanDoAn\\QuanLyBanDoAn\\QuanLyBanDoAn\\FormMon.vb [Design]",
-              "RelativeToolTip": "QuanLyBanDoAn\\FormMon.vb [Design]",
+              "ToolTip": "C:\\Users\\dinhk\\Downloads\\QuanLyBanDoAn\\QuanLyBanDoAn\\QuanLyBanDoAn\\FormMon.vb",
+              "RelativeToolTip": "QuanLyBanDoAn\\FormMon.vb",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2025-05-20T06:18:20.192Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-05-20T19:02:18.927Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "FormBanItem.vb",
               "DocumentMoniker": "C:\\Users\\dinhk\\Downloads\\QuanLyBanDoAn\\QuanLyBanDoAn\\QuanLyBanDoAn\\FormBanItem.vb",
               "RelativeDocumentMoniker": "QuanLyBanDoAn\\FormBanItem.vb",
@@ -212,62 +203,18 @@
               "RelativeToolTip": "QuanLyBanDoAn\\FormBanItem.vb",
               "ViewState": "AgIAADkAAAAAAAAAAAAAAGwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2025-05-20T13:31:54.762Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "FormBanItem.vb [Design]",
-              "DocumentMoniker": "C:\\Users\\dinhk\\Downloads\\QuanLyBanDoAn\\QuanLyBanDoAn\\QuanLyBanDoAn\\FormBanItem.vb",
-              "RelativeDocumentMoniker": "QuanLyBanDoAn\\FormBanItem.vb",
-              "ToolTip": "C:\\Users\\dinhk\\Downloads\\QuanLyBanDoAn\\QuanLyBanDoAn\\QuanLyBanDoAn\\FormBanItem.vb [Design]",
-              "RelativeToolTip": "QuanLyBanDoAn\\FormBanItem.vb [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2025-05-20T13:31:05.019Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "FormHome.vb [Design]",
-              "DocumentMoniker": "C:\\Users\\dinhk\\Downloads\\QuanLyBanDoAn\\QuanLyBanDoAn\\QuanLyBanDoAn\\FormHome.vb",
-              "RelativeDocumentMoniker": "QuanLyBanDoAn\\FormHome.vb",
-              "ToolTip": "C:\\Users\\dinhk\\Downloads\\QuanLyBanDoAn\\QuanLyBanDoAn\\QuanLyBanDoAn\\FormHome.vb [Design]",
-              "RelativeToolTip": "QuanLyBanDoAn\\FormHome.vb [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2025-05-20T13:19:58.676Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "FormXacNhan.vb [Design]",
-              "DocumentMoniker": "C:\\Users\\dinhk\\Downloads\\QuanLyBanDoAn\\QuanLyBanDoAn\\QuanLyBanDoAn\\FormXacNhan.vb",
-              "RelativeDocumentMoniker": "QuanLyBanDoAn\\FormXacNhan.vb",
-              "ToolTip": "C:\\Users\\dinhk\\Downloads\\QuanLyBanDoAn\\QuanLyBanDoAn\\QuanLyBanDoAn\\FormXacNhan.vb [Design]",
-              "RelativeToolTip": "QuanLyBanDoAn\\FormXacNhan.vb [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2025-05-20T17:46:05.724Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "FormDanhMuc.vb [Design]",
-              "DocumentMoniker": "C:\\Users\\dinhk\\Downloads\\QuanLyBanDoAn\\QuanLyBanDoAn\\QuanLyBanDoAn\\FormDanhMuc.vb",
-              "RelativeDocumentMoniker": "QuanLyBanDoAn\\FormDanhMuc.vb",
-              "ToolTip": "C:\\Users\\dinhk\\Downloads\\QuanLyBanDoAn\\QuanLyBanDoAn\\QuanLyBanDoAn\\FormDanhMuc.vb [Design]",
-              "RelativeToolTip": "QuanLyBanDoAn\\FormDanhMuc.vb [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2025-05-20T06:19:56.204Z"
+              "WhenOpened": "2025-05-20T19:02:18.929Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "FormBan.vb [Design]",
-              "DocumentMoniker": "C:\\Users\\dinhk\\Downloads\\QuanLyBanDoAn\\QuanLyBanDoAn\\QuanLyBanDoAn\\FormBan.vb",
-              "RelativeDocumentMoniker": "QuanLyBanDoAn\\FormBan.vb",
-              "ToolTip": "C:\\Users\\dinhk\\Downloads\\QuanLyBanDoAn\\QuanLyBanDoAn\\QuanLyBanDoAn\\FormBan.vb [Design]",
-              "RelativeToolTip": "QuanLyBanDoAn\\FormBan.vb [Design]",
+              "Title": "FormBanItem.vb",
+              "DocumentMoniker": "C:\\Users\\dinhk\\Downloads\\QuanLyBanDoAn\\QuanLyBanDoAn\\QuanLyBanDoAn\\FormBanItem.vb",
+              "RelativeDocumentMoniker": "QuanLyBanDoAn\\FormBanItem.vb",
+              "ToolTip": "C:\\Users\\dinhk\\Downloads\\QuanLyBanDoAn\\QuanLyBanDoAn\\QuanLyBanDoAn\\FormBanItem.vb",
+              "RelativeToolTip": "QuanLyBanDoAn\\FormBanItem.vb",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2025-05-20T16:26:14.611Z"
+              "WhenOpened": "2025-05-20T19:02:18.931Z"
             },
             {
               "$type": "Document",
@@ -277,35 +224,79 @@
               "RelativeDocumentMoniker": "QuanLyBanDoAn\\FormHome.vb",
               "ToolTip": "C:\\Users\\dinhk\\Downloads\\QuanLyBanDoAn\\QuanLyBanDoAn\\QuanLyBanDoAn\\FormHome.vb",
               "RelativeToolTip": "QuanLyBanDoAn\\FormHome.vb",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAQwAwAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2025-05-20T13:19:53.989Z"
+              "WhenOpened": "2025-05-20T19:02:18.934Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "Form1.vb [Design]",
-              "DocumentMoniker": "C:\\Users\\dinhk\\Downloads\\QuanLyBanDoAn\\QuanLyBanDoAn\\QuanLyBanDoAn\\Form1.vb",
-              "RelativeDocumentMoniker": "QuanLyBanDoAn\\Form1.vb",
-              "ToolTip": "C:\\Users\\dinhk\\Downloads\\QuanLyBanDoAn\\QuanLyBanDoAn\\QuanLyBanDoAn\\Form1.vb [Design]",
-              "RelativeToolTip": "QuanLyBanDoAn\\Form1.vb [Design]",
+              "Title": "FormXacNhan.vb",
+              "DocumentMoniker": "C:\\Users\\dinhk\\Downloads\\QuanLyBanDoAn\\QuanLyBanDoAn\\QuanLyBanDoAn\\FormXacNhan.vb",
+              "RelativeDocumentMoniker": "QuanLyBanDoAn\\FormXacNhan.vb",
+              "ToolTip": "C:\\Users\\dinhk\\Downloads\\QuanLyBanDoAn\\QuanLyBanDoAn\\QuanLyBanDoAn\\FormXacNhan.vb",
+              "RelativeToolTip": "QuanLyBanDoAn\\FormXacNhan.vb",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2025-05-14T09:02:33.603Z"
+              "WhenOpened": "2025-05-20T19:02:18.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FormDanhMuc.vb",
+              "DocumentMoniker": "C:\\Users\\dinhk\\Downloads\\QuanLyBanDoAn\\QuanLyBanDoAn\\QuanLyBanDoAn\\FormDanhMuc.vb",
+              "RelativeDocumentMoniker": "QuanLyBanDoAn\\FormDanhMuc.vb",
+              "ToolTip": "C:\\Users\\dinhk\\Downloads\\QuanLyBanDoAn\\QuanLyBanDoAn\\QuanLyBanDoAn\\FormDanhMuc.vb",
+              "RelativeToolTip": "QuanLyBanDoAn\\FormDanhMuc.vb",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-20T19:02:18.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FormBan.vb",
+              "DocumentMoniker": "C:\\Users\\dinhk\\Downloads\\QuanLyBanDoAn\\QuanLyBanDoAn\\QuanLyBanDoAn\\FormBan.vb",
+              "RelativeDocumentMoniker": "QuanLyBanDoAn\\FormBan.vb",
+              "ToolTip": "C:\\Users\\dinhk\\Downloads\\QuanLyBanDoAn\\QuanLyBanDoAn\\QuanLyBanDoAn\\FormBan.vb",
+              "RelativeToolTip": "QuanLyBanDoAn\\FormBan.vb",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-20T19:02:18.941Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
-              "Title": "AddBan.vb [Design]",
-              "DocumentMoniker": "C:\\Users\\dinhk\\Downloads\\QuanLyBanDoAn\\QuanLyBanDoAn\\QuanLyBanDoAn\\AddBan.vb",
-              "RelativeDocumentMoniker": "QuanLyBanDoAn\\AddBan.vb",
-              "ToolTip": "C:\\Users\\dinhk\\Downloads\\QuanLyBanDoAn\\QuanLyBanDoAn\\QuanLyBanDoAn\\AddBan.vb [Design]",
-              "RelativeToolTip": "QuanLyBanDoAn\\AddBan.vb [Design]",
+              "Title": "FormHome.vb",
+              "DocumentMoniker": "C:\\Users\\dinhk\\Downloads\\QuanLyBanDoAn\\QuanLyBanDoAn\\QuanLyBanDoAn\\FormHome.vb",
+              "RelativeDocumentMoniker": "QuanLyBanDoAn\\FormHome.vb",
+              "ToolTip": "C:\\Users\\dinhk\\Downloads\\QuanLyBanDoAn\\QuanLyBanDoAn\\QuanLyBanDoAn\\FormHome.vb",
+              "RelativeToolTip": "QuanLyBanDoAn\\FormHome.vb",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwAwAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2025-05-20T13:26:52.472Z"
+              "WhenOpened": "2025-05-20T19:02:18.943Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\dinhk\\Downloads\\QuanLyBanDoAn\\QuanLyBanDoAn\\QuanLyBanDoAn\\Form1.vb",
+              "RelativeDocumentMoniker": "QuanLyBanDoAn\\Form1.vb",
+              "ToolTip": "C:\\Users\\dinhk\\Downloads\\QuanLyBanDoAn\\QuanLyBanDoAn\\QuanLyBanDoAn\\Form1.vb",
+              "RelativeToolTip": "QuanLyBanDoAn\\Form1.vb",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-20T19:02:18.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AddBan.vb",
+              "DocumentMoniker": "C:\\Users\\dinhk\\Downloads\\QuanLyBanDoAn\\QuanLyBanDoAn\\QuanLyBanDoAn\\AddBan.vb",
+              "RelativeDocumentMoniker": "QuanLyBanDoAn\\AddBan.vb",
+              "ToolTip": "C:\\Users\\dinhk\\Downloads\\QuanLyBanDoAn\\QuanLyBanDoAn\\QuanLyBanDoAn\\AddBan.vb",
+              "RelativeToolTip": "QuanLyBanDoAn\\AddBan.vb",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-20T19:02:18.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
               "Title": "Module1.vb",
               "DocumentMoniker": "C:\\Users\\dinhk\\Downloads\\QuanLyBanDoAn\\QuanLyBanDoAn\\QuanLyBanDoAn\\Module1.vb",
               "RelativeDocumentMoniker": "QuanLyBanDoAn\\Module1.vb",
@@ -313,11 +304,11 @@
               "RelativeToolTip": "QuanLyBanDoAn\\Module1.vb",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAABuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2025-05-20T05:06:45.806Z"
+              "WhenOpened": "2025-05-20T19:02:18.951Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 1,
               "Title": "QuanLyBanDoAn",
               "DocumentMoniker": "C:\\Users\\dinhk\\Downloads\\QuanLyBanDoAn\\QuanLyBanDoAn\\QuanLyBanDoAn\\QuanLyBanDoAn.vbproj",
               "RelativeDocumentMoniker": "QuanLyBanDoAn\\QuanLyBanDoAn.vbproj",
@@ -336,19 +327,18 @@
               "RelativeToolTip": "QuanLyBanDoAn\\AddMon.vb",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2025-05-20T06:41:40.928Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-20T19:02:18.956Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 20,
-              "Title": "AddDanhMuc.vb [Design]",
+              "Title": "AddDanhMuc.vb",
               "DocumentMoniker": "C:\\Users\\dinhk\\Downloads\\QuanLyBanDoAn\\QuanLyBanDoAn\\QuanLyBanDoAn\\AddDanhMuc.vb",
               "RelativeDocumentMoniker": "QuanLyBanDoAn\\AddDanhMuc.vb",
-              "ToolTip": "C:\\Users\\dinhk\\Downloads\\QuanLyBanDoAn\\QuanLyBanDoAn\\QuanLyBanDoAn\\AddDanhMuc.vb [Design]",
-              "RelativeToolTip": "QuanLyBanDoAn\\AddDanhMuc.vb [Design]",
+              "ToolTip": "C:\\Users\\dinhk\\Downloads\\QuanLyBanDoAn\\QuanLyBanDoAn\\QuanLyBanDoAn\\AddDanhMuc.vb",
+              "RelativeToolTip": "QuanLyBanDoAn\\AddDanhMuc.vb",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2025-05-20T04:58:06.508Z"
+              "WhenOpened": "2025-05-20T19:02:18.959Z"
             }
           ]
         },
