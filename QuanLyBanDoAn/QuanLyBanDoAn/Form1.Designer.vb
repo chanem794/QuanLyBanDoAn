@@ -41,11 +41,11 @@ Partial Class Form1
         Me.Label2 = New System.Windows.Forms.Label()
         Me.pnlHome = New System.Windows.Forms.Panel()
         Me.CenterPanel = New System.Windows.Forms.Panel()
-        Me.Panel3 = New System.Windows.Forms.Panel()
         Me.Panel2 = New System.Windows.Forms.Panel()
         Me.Label1 = New System.Windows.Forms.Label()
         Me.MonthCalendar1 = New System.Windows.Forms.MonthCalendar()
         Me.Button1 = New System.Windows.Forms.Button()
+        Me.Panel3 = New System.Windows.Forms.Panel()
         Me.pnlLeftSide.SuspendLayout()
         Me.Panel4.SuspendLayout()
         Me.Panel6.SuspendLayout()
@@ -284,13 +284,6 @@ Partial Class Form1
         Me.CenterPanel.Size = New System.Drawing.Size(892, 523)
         Me.CenterPanel.TabIndex = 18
         '
-        'Panel3
-        '
-        Me.Panel3.Location = New System.Drawing.Point(84, 84)
-        Me.Panel3.Name = "Panel3"
-        Me.Panel3.Size = New System.Drawing.Size(200, 100)
-        Me.Panel3.TabIndex = 17
-        '
         'Panel2
         '
         Me.Panel2.Controls.Add(Me.Label1)
@@ -331,6 +324,13 @@ Partial Class Form1
         Me.Button1.Text = "   Danh sách hóa đơn"
         Me.Button1.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText
         Me.Button1.UseVisualStyleBackColor = True
+        '
+        'Panel3
+        '
+        Me.Panel3.Location = New System.Drawing.Point(84, 84)
+        Me.Panel3.Name = "Panel3"
+        Me.Panel3.Size = New System.Drawing.Size(200, 100)
+        Me.Panel3.TabIndex = 17
         '
         'Form1
         '
