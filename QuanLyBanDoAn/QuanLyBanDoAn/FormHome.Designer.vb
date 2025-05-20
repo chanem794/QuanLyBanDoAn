@@ -54,16 +54,16 @@ Partial Class FormHome
         'PanelHome
         '
         Me.PanelHome.Dock = System.Windows.Forms.DockStyle.Bottom
-        Me.PanelHome.Location = New System.Drawing.Point(0, 75)
+        Me.PanelHome.Location = New System.Drawing.Point(0, 80)
         Me.PanelHome.Name = "PanelHome"
-        Me.PanelHome.Size = New System.Drawing.Size(804, 414)
+        Me.PanelHome.Size = New System.Drawing.Size(800, 370)
         Me.PanelHome.TabIndex = 3
         '
         'FormHome
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(8.0!, 16.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(804, 489)
+        Me.ClientSize = New System.Drawing.Size(800, 450)
         Me.Controls.Add(Me.PanelHome)
         Me.Controls.Add(Me.btnThongKe)
         Me.Controls.Add(Me.btnKinhDoanh)

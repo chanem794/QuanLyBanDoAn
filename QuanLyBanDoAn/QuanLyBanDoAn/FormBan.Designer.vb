@@ -117,7 +117,7 @@ Partial Class FormBan
         '
         'TrangThai
         '
-        Me.TrangThai.DataPropertyName = "Trạng Thái"
+        Me.TrangThai.DataPropertyName = "TrangThai"
         Me.TrangThai.HeaderText = "TrangThai"
         Me.TrangThai.MinimumWidth = 6
         Me.TrangThai.Name = "TrangThai"

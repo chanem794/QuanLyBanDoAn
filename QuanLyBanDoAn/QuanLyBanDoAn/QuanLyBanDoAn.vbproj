@@ -136,6 +136,7 @@
       <SubType>Form</SubType>
     </Compile>
 <<<<<<< HEAD
+<<<<<<< HEAD
     <Compile Include="FormXacNhan.Designer.vb">
       <DependentUpon>FormXacNhan.vb</DependentUpon>
     </Compile>
@@ -160,6 +161,8 @@
 >>>>>>> main
       <SubType>Form</SubType>
     </Compile>
+=======
+>>>>>>> parent of 230a0dd (Merge pull request #8 from chanem794/thongke)
     <Compile Include="Module1.vb" />
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
@@ -207,15 +210,6 @@
     </EmbeddedResource>
     <EmbeddedResource Include="FormMon.resx">
       <DependentUpon>FormMon.vb</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="FormThongKe.resx">
-      <DependentUpon>FormThongKe.vb</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="FormTKSL.resx">
-      <DependentUpon>FormTKSL.vb</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="FormTKTM.resx">
-      <DependentUpon>FormTKTM.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="My Project\Resources.resx">
       <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
