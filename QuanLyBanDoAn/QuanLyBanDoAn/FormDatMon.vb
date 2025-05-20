@@ -7,6 +7,7 @@ Public Class FormDatMon
     Private MaHoaDon As Integer = 0 ' <= mã hóa đơn hiện tại
     Private gioHang As New List(Of CartItem)
     Private tongTien As Decimal = 0
+    Private selectedDanhMuc As Integer = 0 ' 0 = Tất cả
     ' Dùng class mô tả item giỏ hàng
     Public Class CartItem
         Public Property MaMon As Integer
@@ -139,11 +140,8 @@ Public Class FormDatMon
     End Sub
 
     Private Sub ChonDanhMuc(maDM As Integer)
-        If maDM = 0 Then
-            LoadMenuTatCa()
-        Else
-            LoadMenuTheoDanhMuc(maDM)
-        End If
+        selectedDanhMuc = maDM
+        TimKiemHoacLoc()
     End Sub
 
     Private Sub LoadMenuTatCa()
@@ -432,5 +430,31 @@ Public Class FormDatMon
             End Using
             Me.Close()
         End If
+    End Sub
+
+    Private Sub TextBox1_TextChanged(sender As Object, e As EventArgs) Handles TextBox1.TextChanged
+        TimKiemHoacLoc()
+    End Sub
+    Private Sub TimKiemHoacLoc()
+        flpMenu.Controls.Clear()
+        Dim tuKhoa As String = TextBox1.Text.Trim()
+        Using conn As New SqlConnection(connStr)
+            conn.Open()
+            Dim cmd As SqlCommand
+            If selectedDanhMuc = 0 Then
+                ' Tìm trong tất cả món
+                cmd = New SqlCommand("SELECT * FROM MENU WHERE TenMon LIKE @kw", conn)
+            Else
+                ' Tìm trong danh mục được chọn
+                cmd = New SqlCommand("SELECT * FROM MENU WHERE MaDanhMuc_ID=@madm AND TenMon LIKE @kw", conn)
+                cmd.Parameters.AddWithValue("@madm", selectedDanhMuc)
+            End If
+            cmd.Parameters.AddWithValue("@kw", "%" & tuKhoa & "%")
+            Using rd = cmd.ExecuteReader()
+                While rd.Read()
+                    AddMonToFlowLayout(rd)
+                End While
+            End Using
+        End Using
     End Sub
 End Class
