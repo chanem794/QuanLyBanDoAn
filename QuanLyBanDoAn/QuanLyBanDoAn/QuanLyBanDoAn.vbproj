@@ -105,12 +105,6 @@
     <Compile Include="FormBan.vb">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="FormBanItem.Designer.vb">
-      <DependentUpon>FormBanItem.vb</DependentUpon>
-    </Compile>
-    <Compile Include="FormBanItem.vb">
-      <SubType>Form</SubType>
-    </Compile>
     <Compile Include="FormDanhMuc.Designer.vb">
       <DependentUpon>FormDanhMuc.vb</DependentUpon>
     </Compile>
@@ -179,9 +173,6 @@
     </EmbeddedResource>
     <EmbeddedResource Include="FormBan.resx">
       <DependentUpon>FormBan.vb</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="FormBanItem.resx">
-      <DependentUpon>FormBanItem.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="FormDanhMuc.resx">
       <DependentUpon>FormDanhMuc.vb</DependentUpon>
