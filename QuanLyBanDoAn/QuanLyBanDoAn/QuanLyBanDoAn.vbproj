@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
   <PropertyGroup>
@@ -74,6 +74,12 @@
     <Import Include="System.Threading.Tasks" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AddBan.Designer.vb">
+      <DependentUpon>AddBan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AddBan.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="AddDanhMuc.Designer.vb">
       <DependentUpon>AddDanhMuc.vb</DependentUpon>
     </Compile>
@@ -91,6 +97,12 @@
     </Compile>
     <Compile Include="Form1.Designer.vb">
       <DependentUpon>Form1.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormBan.Designer.vb">
+      <DependentUpon>FormBan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormBan.vb">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="FormDanhMuc.Designer.vb">
@@ -129,6 +141,9 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <EmbeddedResource Include="AddBan.resx">
+      <DependentUpon>AddBan.vb</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="AddDanhMuc.resx">
       <DependentUpon>AddDanhMuc.vb</DependentUpon>
     </EmbeddedResource>
@@ -137,6 +152,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormBan.resx">
+      <DependentUpon>FormBan.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="FormDanhMuc.resx">
       <DependentUpon>FormDanhMuc.vb</DependentUpon>
