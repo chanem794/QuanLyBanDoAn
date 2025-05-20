@@ -5,6 +5,7 @@
     {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       "AbsoluteMoniker": "D:0:0:{AF4D7B92-89E2-4323-A071-2CA4992B5220}|QuanLyBanDoAn\\QuanLyBanDoAn.vbproj|c:\\users\\dinhk\\downloads\\quanlybandoan\\quanlybandoan\\quanlybandoan\\formban.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
       "RelativeMoniker": "D:0:0:{AF4D7B92-89E2-4323-A071-2CA4992B5220}|QuanLyBanDoAn\\QuanLyBanDoAn.vbproj|solutionrelative:quanlybandoan\\formban.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
 =======
@@ -12,10 +13,13 @@
       "RelativeMoniker": "D:0:0:{AF4D7B92-89E2-4323-A071-2CA4992B5220}|QuanLyBanDoAn\\QuanLyBanDoAn.vbproj|solutionrelative:quanlybandoan\\formhome.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     },
     {
+=======
+>>>>>>> parent of 230a0dd (Merge pull request #8 from chanem794/thongke)
       "AbsoluteMoniker": "D:0:0:{AF4D7B92-89E2-4323-A071-2CA4992B5220}|QuanLyBanDoAn\\QuanLyBanDoAn.vbproj|c:\\users\\dinhk\\downloads\\quanlybandoan\\quanlybandoan\\quanlybandoan\\formhome.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{AF4D7B92-89E2-4323-A071-2CA4992B5220}|QuanLyBanDoAn\\QuanLyBanDoAn.vbproj|solutionrelative:quanlybandoan\\formhome.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
+<<<<<<< HEAD
       "AbsoluteMoniker": "D:0:0:{AF4D7B92-89E2-4323-A071-2CA4992B5220}|QuanLyBanDoAn\\QuanLyBanDoAn.vbproj|C:\\Users\\dinhk\\Downloads\\QuanLyBanDoAn\\QuanLyBanDoAn\\quanlybandoan\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
 =======
       "AbsoluteMoniker": "D:0:0:{AF4D7B92-89E2-4323-A071-2CA4992B5220}|QuanLyBanDoAn\\QuanLyBanDoAn.vbproj|C:\\Users\\dinhk\\Downloads\\QuanLyBanDoAn\\QuanLyBanDoAn\\quanlybandoan\\formmon.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
@@ -35,39 +39,87 @@
       "RelativeMoniker": "D:0:0:{AF4D7B92-89E2-4323-A071-2CA4992B5220}|QuanLyBanDoAn\\QuanLyBanDoAn.vbproj|solutionrelative:quanlybandoan\\formdanhmuc.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     },
     {
+=======
+      "AbsoluteMoniker": "D:0:0:{AF4D7B92-89E2-4323-A071-2CA4992B5220}|QuanLyBanDoAn\\QuanLyBanDoAn.vbproj|C:\\Users\\dinhk\\Downloads\\QuanLyBanDoAn\\QuanLyBanDoAn\\quanlybandoan\\formhome.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{AF4D7B92-89E2-4323-A071-2CA4992B5220}|QuanLyBanDoAn\\QuanLyBanDoAn.vbproj|solutionrelative:quanlybandoan\\formhome.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF4D7B92-89E2-4323-A071-2CA4992B5220}|QuanLyBanDoAn\\QuanLyBanDoAn.vbproj|c:\\users\\dinhk\\downloads\\quanlybandoan\\quanlybandoan\\quanlybandoan\\formbanitem.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{AF4D7B92-89E2-4323-A071-2CA4992B5220}|QuanLyBanDoAn\\QuanLyBanDoAn.vbproj|solutionrelative:quanlybandoan\\formbanitem.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF4D7B92-89E2-4323-A071-2CA4992B5220}|QuanLyBanDoAn\\QuanLyBanDoAn.vbproj|c:\\users\\dinhk\\downloads\\quanlybandoan\\quanlybandoan\\quanlybandoan\\formbanitem.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{AF4D7B92-89E2-4323-A071-2CA4992B5220}|QuanLyBanDoAn\\QuanLyBanDoAn.vbproj|solutionrelative:quanlybandoan\\formbanitem.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF4D7B92-89E2-4323-A071-2CA4992B5220}|QuanLyBanDoAn\\QuanLyBanDoAn.vbproj|C:\\Users\\dinhk\\Downloads\\QuanLyBanDoAn\\QuanLyBanDoAn\\quanlybandoan\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{AF4D7B92-89E2-4323-A071-2CA4992B5220}|QuanLyBanDoAn\\QuanLyBanDoAn.vbproj|solutionrelative:quanlybandoan\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+>>>>>>> parent of 230a0dd (Merge pull request #8 from chanem794/thongke)
       "AbsoluteMoniker": "D:0:0:{AF4D7B92-89E2-4323-A071-2CA4992B5220}|QuanLyBanDoAn\\QuanLyBanDoAn.vbproj|C:\\Users\\dinhk\\Downloads\\QuanLyBanDoAn\\QuanLyBanDoAn\\quanlybandoan\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
       "RelativeMoniker": "D:0:0:{AF4D7B92-89E2-4323-A071-2CA4992B5220}|QuanLyBanDoAn\\QuanLyBanDoAn.vbproj|solutionrelative:quanlybandoan\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of 230a0dd (Merge pull request #8 from chanem794/thongke)
       "AbsoluteMoniker": "D:0:0:{AF4D7B92-89E2-4323-A071-2CA4992B5220}|QuanLyBanDoAn\\QuanLyBanDoAn.vbproj|C:\\Users\\dinhk\\Downloads\\QuanLyBanDoAn\\QuanLyBanDoAn\\quanlybandoan\\formmon.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{AF4D7B92-89E2-4323-A071-2CA4992B5220}|QuanLyBanDoAn\\QuanLyBanDoAn.vbproj|solutionrelative:quanlybandoan\\formmon.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AF4D7B92-89E2-4323-A071-2CA4992B5220}|QuanLyBanDoAn\\QuanLyBanDoAn.vbproj|C:\\Users\\dinhk\\Downloads\\QuanLyBanDoAn\\QuanLyBanDoAn\\quanlybandoan\\addmon.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
       "RelativeMoniker": "D:0:0:{AF4D7B92-89E2-4323-A071-2CA4992B5220}|QuanLyBanDoAn\\QuanLyBanDoAn.vbproj|solutionrelative:quanlybandoan\\addmon.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+<<<<<<< HEAD
 =======
       "AbsoluteMoniker": "D:0:0:{AF4D7B92-89E2-4323-A071-2CA4992B5220}|QuanLyBanDoAn\\QuanLyBanDoAn.vbproj|C:\\Users\\dinhk\\Downloads\\QuanLyBanDoAn\\QuanLyBanDoAn\\quanlybandoan\\formhome.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
       "RelativeMoniker": "D:0:0:{AF4D7B92-89E2-4323-A071-2CA4992B5220}|QuanLyBanDoAn\\QuanLyBanDoAn.vbproj|solutionrelative:quanlybandoan\\formhome.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+=======
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF4D7B92-89E2-4323-A071-2CA4992B5220}|QuanLyBanDoAn\\QuanLyBanDoAn.vbproj|c:\\users\\dinhk\\downloads\\quanlybandoan\\quanlybandoan\\quanlybandoan\\addban.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{AF4D7B92-89E2-4323-A071-2CA4992B5220}|QuanLyBanDoAn\\QuanLyBanDoAn.vbproj|solutionrelative:quanlybandoan\\addban.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+>>>>>>> parent of 230a0dd (Merge pull request #8 from chanem794/thongke)
     },
     {
       "AbsoluteMoniker": "D:0:0:{AF4D7B92-89E2-4323-A071-2CA4992B5220}|QuanLyBanDoAn\\QuanLyBanDoAn.vbproj|C:\\Users\\dinhk\\Downloads\\QuanLyBanDoAn\\QuanLyBanDoAn\\quanlybandoan\\formdanhmuc.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
       "RelativeMoniker": "D:0:0:{AF4D7B92-89E2-4323-A071-2CA4992B5220}|QuanLyBanDoAn\\QuanLyBanDoAn.vbproj|solutionrelative:quanlybandoan\\formdanhmuc.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     },
     {
+<<<<<<< HEAD
       "AbsoluteMoniker": "D:0:0:{AF4D7B92-89E2-4323-A071-2CA4992B5220}|QuanLyBanDoAn\\QuanLyBanDoAn.vbproj|C:\\Users\\dinhk\\Downloads\\QuanLyBanDoAn\\QuanLyBanDoAn\\quanlybandoan\\formdanhmuc.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{AF4D7B92-89E2-4323-A071-2CA4992B5220}|QuanLyBanDoAn\\QuanLyBanDoAn.vbproj|solutionrelative:quanlybandoan\\formdanhmuc.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
 >>>>>>> parent of f1d6714 (Merge pull request #6 from chanem794/feature-menu)
+=======
+      "AbsoluteMoniker": "D:0:0:{AF4D7B92-89E2-4323-A071-2CA4992B5220}|QuanLyBanDoAn\\QuanLyBanDoAn.vbproj|C:\\Users\\dinhk\\Downloads\\QuanLyBanDoAn\\QuanLyBanDoAn\\quanlybandoan\\formmon.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{AF4D7B92-89E2-4323-A071-2CA4992B5220}|QuanLyBanDoAn\\QuanLyBanDoAn.vbproj|solutionrelative:quanlybandoan\\formmon.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF4D7B92-89E2-4323-A071-2CA4992B5220}|QuanLyBanDoAn\\QuanLyBanDoAn.vbproj|C:\\Users\\dinhk\\Downloads\\QuanLyBanDoAn\\QuanLyBanDoAn\\quanlybandoan\\module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{AF4D7B92-89E2-4323-A071-2CA4992B5220}|QuanLyBanDoAn\\QuanLyBanDoAn.vbproj|solutionrelative:quanlybandoan\\module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+>>>>>>> parent of 230a0dd (Merge pull request #8 from chanem794/thongke)
     },
     {
       "AbsoluteMoniker": "D:0:0:{AF4D7B92-89E2-4323-A071-2CA4992B5220}|QuanLyBanDoAn\\QuanLyBanDoAn.vbproj|C:\\Users\\dinhk\\Downloads\\QuanLyBanDoAn\\QuanLyBanDoAn\\quanlybandoan\\adddanhmuc.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{AF4D7B92-89E2-4323-A071-2CA4992B5220}|QuanLyBanDoAn\\QuanLyBanDoAn.vbproj|solutionrelative:quanlybandoan\\adddanhmuc.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
+<<<<<<< HEAD
+=======
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|QuanLyBanDoAn||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF4D7B92-89E2-4323-A071-2CA4992B5220}|QuanLyBanDoAn\\QuanLyBanDoAn.vbproj|C:\\Users\\dinhk\\Downloads\\QuanLyBanDoAn\\QuanLyBanDoAn\\quanlybandoan\\formdanhmuc.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{AF4D7B92-89E2-4323-A071-2CA4992B5220}|QuanLyBanDoAn\\QuanLyBanDoAn.vbproj|solutionrelative:quanlybandoan\\formdanhmuc.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+>>>>>>> parent of 230a0dd (Merge pull request #8 from chanem794/thongke)
       "AbsoluteMoniker": "D:0:0:{AF4D7B92-89E2-4323-A071-2CA4992B5220}|QuanLyBanDoAn\\QuanLyBanDoAn.vbproj|C:\\Users\\dinhk\\Downloads\\QuanLyBanDoAn\\QuanLyBanDoAn\\quanlybandoan\\addmon.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{AF4D7B92-89E2-4323-A071-2CA4992B5220}|QuanLyBanDoAn\\QuanLyBanDoAn.vbproj|solutionrelative:quanlybandoan\\addmon.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
+<<<<<<< HEAD
       "AbsoluteMoniker": "D:0:0:{AF4D7B92-89E2-4323-A071-2CA4992B5220}|QuanLyBanDoAn\\QuanLyBanDoAn.vbproj|C:\\Users\\dinhk\\Downloads\\QuanLyBanDoAn\\QuanLyBanDoAn\\quanlybandoan\\addmon.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
       "RelativeMoniker": "D:0:0:{AF4D7B92-89E2-4323-A071-2CA4992B5220}|QuanLyBanDoAn\\QuanLyBanDoAn.vbproj|solutionrelative:quanlybandoan\\addmon.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     },
@@ -97,6 +149,10 @@
 >>>>>>> parent of 463841e (Done Gọi Bàn)
 =======
 >>>>>>> parent of f1d6714 (Merge pull request #6 from chanem794/feature-menu)
+=======
+      "AbsoluteMoniker": "D:0:0:{AF4D7B92-89E2-4323-A071-2CA4992B5220}|QuanLyBanDoAn\\QuanLyBanDoAn.vbproj|C:\\Users\\dinhk\\Downloads\\QuanLyBanDoAn\\QuanLyBanDoAn\\quanlybandoan\\adddanhmuc.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{AF4D7B92-89E2-4323-A071-2CA4992B5220}|QuanLyBanDoAn\\QuanLyBanDoAn.vbproj|solutionrelative:quanlybandoan\\adddanhmuc.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+>>>>>>> parent of 230a0dd (Merge pull request #8 from chanem794/thongke)
     }
   ],
   "DocumentGroupContainers": [
@@ -108,8 +164,80 @@
           "DockedWidth": 200,
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
           "SelectedChildIndex": 1,
+=======
+          "SelectedChildIndex": 6,
+>>>>>>> parent of 230a0dd (Merge pull request #8 from chanem794/thongke)
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\dinhk\\Downloads\\QuanLyBanDoAn\\QuanLyBanDoAn\\QuanLyBanDoAn\\Form1.vb",
+              "RelativeDocumentMoniker": "QuanLyBanDoAn\\Form1.vb",
+              "ToolTip": "C:\\Users\\dinhk\\Downloads\\QuanLyBanDoAn\\QuanLyBanDoAn\\QuanLyBanDoAn\\Form1.vb",
+              "RelativeToolTip": "QuanLyBanDoAn\\Form1.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-14T09:16:07.717Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FormDanhMuc.vb",
+              "DocumentMoniker": "C:\\Users\\dinhk\\Downloads\\QuanLyBanDoAn\\QuanLyBanDoAn\\QuanLyBanDoAn\\FormDanhMuc.vb",
+              "RelativeDocumentMoniker": "QuanLyBanDoAn\\FormDanhMuc.vb",
+              "ToolTip": "C:\\Users\\dinhk\\Downloads\\QuanLyBanDoAn\\QuanLyBanDoAn\\QuanLyBanDoAn\\FormDanhMuc.vb",
+              "RelativeToolTip": "QuanLyBanDoAn\\FormDanhMuc.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-20T04:51:50.232Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AddDanhMuc.vb",
+              "DocumentMoniker": "C:\\Users\\dinhk\\Downloads\\QuanLyBanDoAn\\QuanLyBanDoAn\\QuanLyBanDoAn\\AddDanhMuc.vb",
+              "RelativeDocumentMoniker": "QuanLyBanDoAn\\AddDanhMuc.vb",
+              "ToolTip": "C:\\Users\\dinhk\\Downloads\\QuanLyBanDoAn\\QuanLyBanDoAn\\QuanLyBanDoAn\\AddDanhMuc.vb",
+              "RelativeToolTip": "QuanLyBanDoAn\\AddDanhMuc.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-20T05:45:04.978Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormMon.vb",
+              "DocumentMoniker": "C:\\Users\\dinhk\\Downloads\\QuanLyBanDoAn\\QuanLyBanDoAn\\QuanLyBanDoAn\\FormMon.vb",
+              "RelativeDocumentMoniker": "QuanLyBanDoAn\\FormMon.vb",
+              "ToolTip": "C:\\Users\\dinhk\\Downloads\\QuanLyBanDoAn\\QuanLyBanDoAn\\QuanLyBanDoAn\\FormMon.vb",
+              "RelativeToolTip": "QuanLyBanDoAn\\FormMon.vb",
+              "ViewState": "AgIAACYAAAAAAAAAAIA/wDcAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-20T06:25:32.943Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AddMon.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\dinhk\\Downloads\\QuanLyBanDoAn\\QuanLyBanDoAn\\QuanLyBanDoAn\\AddMon.vb",
+              "RelativeDocumentMoniker": "QuanLyBanDoAn\\AddMon.vb",
+              "ToolTip": "C:\\Users\\dinhk\\Downloads\\QuanLyBanDoAn\\QuanLyBanDoAn\\QuanLyBanDoAn\\AddMon.vb [Design]",
+              "RelativeToolTip": "QuanLyBanDoAn\\AddMon.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-20T06:27:21.583Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
@@ -213,14 +341,36 @@
               "$type": "Document",
               "DocumentIndex": 0,
 <<<<<<< HEAD
+<<<<<<< HEAD
               "Title": "FormBan.vb [Design]",
               "DocumentMoniker": "C:\\Users\\dinhk\\Downloads\\QuanLyBanDoAn\\QuanLyBanDoAn\\QuanLyBanDoAn\\FormBan.vb",
               "RelativeDocumentMoniker": "QuanLyBanDoAn\\FormBan.vb",
               "ToolTip": "C:\\Users\\dinhk\\Downloads\\QuanLyBanDoAn\\QuanLyBanDoAn\\QuanLyBanDoAn\\FormBan.vb [Design]",
               "RelativeToolTip": "QuanLyBanDoAn\\FormBan.vb [Design]",
+=======
+              "Title": "FormHome.vb",
+              "DocumentMoniker": "C:\\Users\\dinhk\\Downloads\\QuanLyBanDoAn\\QuanLyBanDoAn\\QuanLyBanDoAn\\FormHome.vb",
+              "RelativeDocumentMoniker": "QuanLyBanDoAn\\FormHome.vb",
+              "ToolTip": "C:\\Users\\dinhk\\Downloads\\QuanLyBanDoAn\\QuanLyBanDoAn\\QuanLyBanDoAn\\FormHome.vb",
+              "RelativeToolTip": "QuanLyBanDoAn\\FormHome.vb",
+              "ViewState": "AgIAAAQAAAAAAAAAAIAwwBEAAAAUAAAAAAAAAA==",
+>>>>>>> parent of 230a0dd (Merge pull request #8 from chanem794/thongke)
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2025-05-20T18:43:16.255Z",
+              "WhenOpened": "2025-05-20T13:19:53.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormHome.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\dinhk\\Downloads\\QuanLyBanDoAn\\QuanLyBanDoAn\\QuanLyBanDoAn\\FormHome.vb",
+              "RelativeDocumentMoniker": "QuanLyBanDoAn\\FormHome.vb",
+              "ToolTip": "C:\\Users\\dinhk\\Downloads\\QuanLyBanDoAn\\QuanLyBanDoAn\\QuanLyBanDoAn\\FormHome.vb [Design]",
+              "RelativeToolTip": "QuanLyBanDoAn\\FormHome.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-20T13:19:58.676Z",
               "EditorCaption": " [Design]"
+<<<<<<< HEAD
 =======
               "Title": "FormHome.vb [Design]",
               "DocumentMoniker": "C:\\Users\\dinhk\\Downloads\\QuanLyBanDoAn\\QuanLyBanDoAn\\QuanLyBanDoAn\\FormHome.vb",
@@ -258,11 +408,65 @@
               "RelativeToolTip": "QuanLyBanDoAn\\FormMon.vb [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2025-05-20T06:18:20.192Z",
+=======
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormBanItem.vb",
+              "DocumentMoniker": "C:\\Users\\dinhk\\Downloads\\QuanLyBanDoAn\\QuanLyBanDoAn\\QuanLyBanDoAn\\FormBanItem.vb",
+              "RelativeDocumentMoniker": "QuanLyBanDoAn\\FormBanItem.vb",
+              "ToolTip": "C:\\Users\\dinhk\\Downloads\\QuanLyBanDoAn\\QuanLyBanDoAn\\QuanLyBanDoAn\\FormBanItem.vb",
+              "RelativeToolTip": "QuanLyBanDoAn\\FormBanItem.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-20T13:31:54.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormBanItem.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\dinhk\\Downloads\\QuanLyBanDoAn\\QuanLyBanDoAn\\QuanLyBanDoAn\\FormBanItem.vb",
+              "RelativeDocumentMoniker": "QuanLyBanDoAn\\FormBanItem.vb",
+              "ToolTip": "C:\\Users\\dinhk\\Downloads\\QuanLyBanDoAn\\QuanLyBanDoAn\\QuanLyBanDoAn\\FormBanItem.vb [Design]",
+              "RelativeToolTip": "QuanLyBanDoAn\\FormBanItem.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-20T13:31:05.019Z",
+>>>>>>> parent of 230a0dd (Merge pull request #8 from chanem794/thongke)
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 4,
+=======
+              "DocumentIndex": 5,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\dinhk\\Downloads\\QuanLyBanDoAn\\QuanLyBanDoAn\\QuanLyBanDoAn\\Form1.vb",
+              "RelativeDocumentMoniker": "QuanLyBanDoAn\\Form1.vb",
+              "ToolTip": "C:\\Users\\dinhk\\Downloads\\QuanLyBanDoAn\\QuanLyBanDoAn\\QuanLyBanDoAn\\Form1.vb [Design]",
+              "RelativeToolTip": "QuanLyBanDoAn\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-14T09:02:33.603Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AddBan.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\dinhk\\Downloads\\QuanLyBanDoAn\\QuanLyBanDoAn\\QuanLyBanDoAn\\AddBan.vb",
+              "RelativeDocumentMoniker": "QuanLyBanDoAn\\AddBan.vb",
+              "ToolTip": "C:\\Users\\dinhk\\Downloads\\QuanLyBanDoAn\\QuanLyBanDoAn\\QuanLyBanDoAn\\AddBan.vb [Design]",
+              "RelativeToolTip": "QuanLyBanDoAn\\AddBan.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-20T13:26:52.472Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+>>>>>>> parent of 230a0dd (Merge pull request #8 from chanem794/thongke)
               "Title": "FormDanhMuc.vb [Design]",
               "DocumentMoniker": "C:\\Users\\dinhk\\Downloads\\QuanLyBanDoAn\\QuanLyBanDoAn\\QuanLyBanDoAn\\FormDanhMuc.vb",
               "RelativeDocumentMoniker": "QuanLyBanDoAn\\FormDanhMuc.vb",
@@ -274,6 +478,7 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 5,
 =======
               "IsPinned": true
@@ -312,6 +517,9 @@
               "DocumentIndex": 11,
 =======
               "DocumentIndex": 0,
+=======
+              "DocumentIndex": 10,
+>>>>>>> parent of 230a0dd (Merge pull request #8 from chanem794/thongke)
               "Title": "FormMon.vb [Design]",
               "DocumentMoniker": "C:\\Users\\dinhk\\Downloads\\QuanLyBanDoAn\\QuanLyBanDoAn\\QuanLyBanDoAn\\FormMon.vb",
               "RelativeDocumentMoniker": "QuanLyBanDoAn\\FormMon.vb",
@@ -323,6 +531,7 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 3,
               "Title": "FormHome.vb [Design]",
               "DocumentMoniker": "C:\\Users\\dinhk\\Downloads\\QuanLyBanDoAn\\QuanLyBanDoAn\\QuanLyBanDoAn\\FormHome.vb",
@@ -375,6 +584,21 @@
             {
               "$type": "Document",
               "DocumentIndex": 11,
+=======
+              "DocumentIndex": 11,
+              "Title": "Module1.vb",
+              "DocumentMoniker": "C:\\Users\\dinhk\\Downloads\\QuanLyBanDoAn\\QuanLyBanDoAn\\QuanLyBanDoAn\\Module1.vb",
+              "RelativeDocumentMoniker": "QuanLyBanDoAn\\Module1.vb",
+              "ToolTip": "C:\\Users\\dinhk\\Downloads\\QuanLyBanDoAn\\QuanLyBanDoAn\\QuanLyBanDoAn\\Module1.vb",
+              "RelativeToolTip": "QuanLyBanDoAn\\Module1.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAABuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-20T05:06:45.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+>>>>>>> parent of 230a0dd (Merge pull request #8 from chanem794/thongke)
               "Title": "QuanLyBanDoAn",
               "DocumentMoniker": "C:\\Users\\dinhk\\Downloads\\QuanLyBanDoAn\\QuanLyBanDoAn\\QuanLyBanDoAn\\QuanLyBanDoAn.vbproj",
               "RelativeDocumentMoniker": "QuanLyBanDoAn\\QuanLyBanDoAn.vbproj",
@@ -382,17 +606,38 @@
               "RelativeToolTip": "QuanLyBanDoAn\\QuanLyBanDoAn.vbproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2025-05-20T04:47:02.503Z"
+<<<<<<< HEAD
 >>>>>>> parent of f1d6714 (Merge pull request #6 from chanem794/feature-menu)
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
+=======
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AddMon.vb",
+              "DocumentMoniker": "C:\\Users\\dinhk\\Downloads\\QuanLyBanDoAn\\QuanLyBanDoAn\\QuanLyBanDoAn\\AddMon.vb",
+              "RelativeDocumentMoniker": "QuanLyBanDoAn\\AddMon.vb",
+              "ToolTip": "C:\\Users\\dinhk\\Downloads\\QuanLyBanDoAn\\QuanLyBanDoAn\\QuanLyBanDoAn\\AddMon.vb",
+              "RelativeToolTip": "QuanLyBanDoAn\\AddMon.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-20T06:41:40.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+>>>>>>> parent of 230a0dd (Merge pull request #8 from chanem794/thongke)
               "Title": "AddDanhMuc.vb [Design]",
               "DocumentMoniker": "C:\\Users\\dinhk\\Downloads\\QuanLyBanDoAn\\QuanLyBanDoAn\\QuanLyBanDoAn\\AddDanhMuc.vb",
               "RelativeDocumentMoniker": "QuanLyBanDoAn\\AddDanhMuc.vb",
               "ToolTip": "C:\\Users\\dinhk\\Downloads\\QuanLyBanDoAn\\QuanLyBanDoAn\\QuanLyBanDoAn\\AddDanhMuc.vb [Design]",
               "RelativeToolTip": "QuanLyBanDoAn\\AddDanhMuc.vb [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+<<<<<<< HEAD
 <<<<<<< HEAD
               "WhenOpened": "2025-05-20T04:58:06.508Z",
               "EditorCaption": " [Design]"
@@ -415,6 +660,9 @@
 >>>>>>> parent of 463841e (Done Gọi Bàn)
 =======
 >>>>>>> parent of f1d6714 (Merge pull request #6 from chanem794/feature-menu)
+=======
+              "WhenOpened": "2025-05-20T04:58:06.508Z"
+>>>>>>> parent of 230a0dd (Merge pull request #8 from chanem794/thongke)
             }
           ]
         },

@@ -39,6 +39,7 @@ E:\Tue\224\thlttq\QuanLyBanDoAn\QuanLyBanDoAn\QuanLyBanDoAn\obj\Debug\QuanLyBanD
 C:\Users\dinhk\Downloads\QuanLyBanDoAn\QuanLyBanDoAn\QuanLyBanDoAn\obj\Debug\QuanLyBanDoAn.AddBan.resources
 C:\Users\dinhk\Downloads\QuanLyBanDoAn\QuanLyBanDoAn\QuanLyBanDoAn\obj\Debug\QuanLyBanDoAn.FormBan.resources
 C:\Users\dinhk\Downloads\QuanLyBanDoAn\QuanLyBanDoAn\QuanLyBanDoAn\obj\Debug\QuanLyBanDoAn.FormBanItem.resources
+<<<<<<< HEAD
 E:\Tue\224\thlttq\QuanLyBanDoAn\QuanLyBanDoAn\QuanLyBanDoAn\obj\Debug\QuanLyBanDoAn.FormBanItem.resources
 E:\Tue\224\thlttq\QuanLyBanDoAn\QuanLyBanDoAn\QuanLyBanDoAn\obj\Debug\QuanLyBanDoAn.FormThongKe.resources
 E:\Tue\224\thlttq\QuanLyBanDoAn\QuanLyBanDoAn\QuanLyBanDoAn\obj\Debug\QuanLyBanDoAn.FormTKSL.resources
@@ -50,3 +51,5 @@ C:\Users\dinhk\Downloads\QuanLyBanDoAn\QuanLyBanDoAn\QuanLyBanDoAn\obj\Debug\Qua
 >>>>>>> parent of 463841e (Done Gọi Bàn)
 =======
 >>>>>>> parent of f1d6714 (Merge pull request #6 from chanem794/feature-menu)
+=======
+>>>>>>> parent of 230a0dd (Merge pull request #8 from chanem794/thongke)

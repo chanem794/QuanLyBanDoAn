@@ -54,9 +54,9 @@ Partial Class FormHome
         'PanelHome
         '
         Me.PanelHome.Dock = System.Windows.Forms.DockStyle.Bottom
-        Me.PanelHome.Location = New System.Drawing.Point(0, 75)
+        Me.PanelHome.Location = New System.Drawing.Point(0, 80)
         Me.PanelHome.Name = "PanelHome"
-        Me.PanelHome.Size = New System.Drawing.Size(804, 414)
+        Me.PanelHome.Size = New System.Drawing.Size(800, 370)
         Me.PanelHome.TabIndex = 3
 =======
         Me.flpBan.Anchor = CType((((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Bottom) _
@@ -87,7 +87,11 @@ Partial Class FormHome
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         Me.ClientSize = New System.Drawing.Size(804, 489)
+=======
+        Me.ClientSize = New System.Drawing.Size(800, 450)
+>>>>>>> parent of 230a0dd (Merge pull request #8 from chanem794/thongke)
         Me.Controls.Add(Me.PanelHome)
         Me.Controls.Add(Me.btnThongKe)
         Me.Controls.Add(Me.btnKinhDoanh)

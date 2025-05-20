@@ -8,7 +8,7 @@ Public Class FormHome
 
 <<<<<<< HEAD
     Private Sub btnThongKe_Click(sender As Object, e As EventArgs) Handles btnThongKe.Click
-        AddControls(New FormThongKe())
+        'AddControls(New FormThongKe())
         btnThongKe.BackColor = Color.FromArgb(39, 67, 129)
         btnKinhDoanh.BackColor = Color.Silver
 =======
