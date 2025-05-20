@@ -22,16 +22,6 @@ QuanLyBanDoAn
   resource lookups using this strongly typed resource class.
 </summary>
 </member>
-<member name="P:QuanLyBanDoAn.My.Resources.Resources.ban_cokhach">
-<summary>
-  Looks up a localized resource of type System.Drawing.Bitmap.
-</summary>
-</member>
-<member name="P:QuanLyBanDoAn.My.Resources.Resources.ban_trong">
-<summary>
-  Looks up a localized resource of type System.Drawing.Bitmap.
-</summary>
-</member>
 <member name="P:QuanLyBanDoAn.My.Resources.Resources.edit">
 <summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
@@ -57,47 +47,12 @@ QuanLyBanDoAn
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
 </member>
-<member name="P:QuanLyBanDoAn.My.Resources.Resources.mon10">
-<summary>
-  Looks up a localized resource of type System.Drawing.Bitmap.
-</summary>
-</member>
 <member name="P:QuanLyBanDoAn.My.Resources.Resources.mon2">
 <summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
 </member>
 <member name="P:QuanLyBanDoAn.My.Resources.Resources.mon3">
-<summary>
-  Looks up a localized resource of type System.Drawing.Bitmap.
-</summary>
-</member>
-<member name="P:QuanLyBanDoAn.My.Resources.Resources.mon4">
-<summary>
-  Looks up a localized resource of type System.Drawing.Bitmap.
-</summary>
-</member>
-<member name="P:QuanLyBanDoAn.My.Resources.Resources.mon5">
-<summary>
-  Looks up a localized resource of type System.Drawing.Bitmap.
-</summary>
-</member>
-<member name="P:QuanLyBanDoAn.My.Resources.Resources.mon6">
-<summary>
-  Looks up a localized resource of type System.Drawing.Bitmap.
-</summary>
-</member>
-<member name="P:QuanLyBanDoAn.My.Resources.Resources.mon7">
-<summary>
-  Looks up a localized resource of type System.Drawing.Bitmap.
-</summary>
-</member>
-<member name="P:QuanLyBanDoAn.My.Resources.Resources.mon8">
-<summary>
-  Looks up a localized resource of type System.Drawing.Bitmap.
-</summary>
-</member>
-<member name="P:QuanLyBanDoAn.My.Resources.Resources.mon9">
 <summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>

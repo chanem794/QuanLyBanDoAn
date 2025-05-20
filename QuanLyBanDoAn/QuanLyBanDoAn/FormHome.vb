@@ -1,7 +1,7 @@
 ﻿Imports System.Data.SqlClient
-Imports System.Drawing
 
 Public Class FormHome
+<<<<<<< HEAD
     Private Sub FormHome_Load(sender As Object, e As EventArgs) Handles MyBase.Load
         HienThiBan()
     End Sub
@@ -83,5 +83,13 @@ Public Class FormHome
             End Using
         End Using
 >>>>>>> parent of 463841e (Done Gọi Bàn)
+=======
+    Private Sub Label1_Click(sender As Object, e As EventArgs) Handles Label1.Click
+
+    End Sub
+
+    Private Sub FormHome_Load(sender As Object, e As EventArgs) Handles MyBase.Load
+
+>>>>>>> parent of f1d6714 (Merge pull request #6 from chanem794/feature-menu)
     End Sub
 End Class
