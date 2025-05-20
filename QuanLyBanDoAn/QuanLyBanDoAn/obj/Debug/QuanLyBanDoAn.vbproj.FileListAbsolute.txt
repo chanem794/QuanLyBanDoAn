@@ -37,6 +37,9 @@ E:\Tue\224\thlttq\QuanLyBanDoAn\QuanLyBanDoAn\QuanLyBanDoAn\obj\Debug\QuanLyBanD
 C:\Users\dinhk\Downloads\QuanLyBanDoAn\QuanLyBanDoAn\QuanLyBanDoAn\obj\Debug\QuanLyBanDoAn.AddBan.resources
 C:\Users\dinhk\Downloads\QuanLyBanDoAn\QuanLyBanDoAn\QuanLyBanDoAn\obj\Debug\QuanLyBanDoAn.FormBan.resources
 C:\Users\dinhk\Downloads\QuanLyBanDoAn\QuanLyBanDoAn\QuanLyBanDoAn\obj\Debug\QuanLyBanDoAn.FormBanItem.resources
+<<<<<<< HEAD
+C:\Users\dinhk\Downloads\QuanLyBanDoAn\QuanLyBanDoAn\QuanLyBanDoAn\obj\Debug\QuanLyBanDoAn.FormDatMon.resources
+=======
 E:\Tue\224\thlttq\QuanLyBanDoAn\QuanLyBanDoAn\QuanLyBanDoAn\obj\Debug\QuanLyBanDoAn.FormBanItem.resources
 E:\Tue\224\thlttq\QuanLyBanDoAn\QuanLyBanDoAn\QuanLyBanDoAn\obj\Debug\QuanLyBanDoAn.FormThongKe.resources
 E:\Tue\224\thlttq\QuanLyBanDoAn\QuanLyBanDoAn\QuanLyBanDoAn\obj\Debug\QuanLyBanDoAn.FormTKSL.resources
@@ -44,3 +47,4 @@ E:\Tue\224\thlttq\QuanLyBanDoAn\QuanLyBanDoAn\QuanLyBanDoAn\obj\Debug\QuanLyBanD
 C:\Users\dinhk\Downloads\QuanLyBanDoAn\QuanLyBanDoAn\QuanLyBanDoAn\obj\Debug\QuanLyBanDoAn.FormThongKe.resources
 C:\Users\dinhk\Downloads\QuanLyBanDoAn\QuanLyBanDoAn\QuanLyBanDoAn\obj\Debug\QuanLyBanDoAn.FormTKSL.resources
 C:\Users\dinhk\Downloads\QuanLyBanDoAn\QuanLyBanDoAn\QuanLyBanDoAn\obj\Debug\QuanLyBanDoAn.FormTKTM.resources
+>>>>>>> main

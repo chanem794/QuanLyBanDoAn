@@ -117,6 +117,12 @@
     <Compile Include="FormDanhMuc.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="FormDatMon.Designer.vb">
+      <DependentUpon>FormDatMon.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormDatMon.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="FormHome.Designer.vb">
       <DependentUpon>FormHome.vb</DependentUpon>
     </Compile>
@@ -129,6 +135,12 @@
     <Compile Include="FormMon.vb">
       <SubType>Form</SubType>
     </Compile>
+<<<<<<< HEAD
+    <Compile Include="FormXacNhan.Designer.vb">
+      <DependentUpon>FormXacNhan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormXacNhan.vb">
+=======
     <Compile Include="FormThongKe.Designer.vb">
       <DependentUpon>FormThongKe.vb</DependentUpon>
     </Compile>
@@ -145,6 +157,7 @@
       <DependentUpon>FormTKTM.vb</DependentUpon>
     </Compile>
     <Compile Include="FormTKTM.vb">
+>>>>>>> main
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Module1.vb" />
@@ -185,6 +198,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="FormDanhMuc.resx">
       <DependentUpon>FormDanhMuc.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDatMon.resx">
+      <DependentUpon>FormDatMon.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="FormHome.resx">
       <DependentUpon>FormHome.vb</DependentUpon>
