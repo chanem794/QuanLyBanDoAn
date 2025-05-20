@@ -1,5 +1,6 @@
-﻿Public Class Form1
-
+﻿Imports System.Data.SqlClient
+Public Class Form1
+    Private connStr As String = "Data Source=localhost.;Initial Catalog=QuanLyBanDoAn;Integrated Security=True"
     ' Method to add Controls in Main Form
     Public Sub AddControls(f As Form)
         CenterPanel.Controls.Clear()
@@ -8,6 +9,7 @@
         CenterPanel.Controls.Add(f)
         f.Show()
     End Sub
+
     Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
 
     End Sub
@@ -30,6 +32,7 @@
     Private Sub btnDanhMuc_Click(sender As Object, e As EventArgs) Handles btnDanhMuc.Click
         pnlOnButtonPosition.Height = btnDanhMuc.Height
         pnlOnButtonPosition.Top = btnDanhMuc.Top
+        AddControls(New FormDanhMuc())
         Label2.Text = "Danh Mục"
     End Sub
 
