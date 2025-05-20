@@ -15,7 +15,14 @@ Public Class Form1
         Dim monAnh As New Dictionary(Of Integer, Image) From {
         {1, My.Resources.mon1},
         {2, My.Resources.mon2},
-        {3, My.Resources.mon3}
+        {3, My.Resources.mon3},
+        {4, My.Resources.mon4},
+        {5, My.Resources.mon5},
+        {6, My.Resources.mon6},
+        {7, My.Resources.mon7},
+        {8, My.Resources.mon8},
+        {9, My.Resources.mon9},
+        {10, My.Resources.mon10}
     }
 
         Using conn As New SqlConnection(connStr)

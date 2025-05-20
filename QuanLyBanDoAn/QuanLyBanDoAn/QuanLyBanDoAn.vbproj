@@ -187,5 +187,32 @@
   <ItemGroup>
     <None Include="Resources\mon2.png" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mon10.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mon9.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mon8.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mon7.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mon6.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mon5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mon4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ban_cokhach.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ban_trong.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
 </Project>
